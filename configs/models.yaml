@@ -1,0 +1,205 @@
+api_models:
+  gemini-flash:
+    name: gemini-2.5-flash-preview-04-17
+    provider: google
+    rpm: 15
+    rpd: 1500
+    cost_per_1k_input: 0.0
+    cost_per_1k_output: 0.0
+    notes: "Free tier — Google AI Studio"
+
+  gemini-pro:
+    name: gemini-2.5-pro-preview-03-25
+    provider: google
+    rpm: 2
+    rpd: 100
+    cost_per_1k_input: 0.0
+    cost_per_1k_output: 0.0
+    notes: "Free tier — use sparingly (100 req/day)"
+
+  gpt4o:
+    name: gpt-4o
+    provider: openai
+    rpm: 60
+    cost_per_1k_input: 0.005
+    cost_per_1k_output: 0.015
+    notes: "~$15-20 for full experiment"
+
+open_models:
+  qwen-7b:
+    hf_id: Qwen/Qwen2.5-VL-7B-Instruct
+    params: 7B
+    dtype: bfloat16
+    vram_gb: 15
+    notes: "Strong 7B baseline"
+
+  qwen-72b:
+    hf_id: Qwen/Qwen2.5-VL-72B-Instruct
+    params: 72B
+    dtype: bfloat16
+    vram_gb: 145
+    notes: "Tests whether scale closes the gap"
+
+  internvl-8b:
+    hf_id: OpenGVLab/InternVL2_5-8B
+    params: 8B
+    dtype: bfloat16
+    vram_gb: 16
+    notes: "Strong vision encoder, trust_remote_code=True"
+
+  internvl-26b:
+    hf_id: OpenGVLab/InternVL2_5-26B
+    params: 26B
+    dtype: bfloat16
+    vram_gb: 52
+    notes: "Mid-point for 8B→26B→78B scaling curve within InternVL family"
+
+  internvl-78b:
+    hf_id: OpenGVLab/InternVL2_5-78B
+    params: 78B
+    dtype: bfloat16
+    vram_gb: 156
+    notes: "Top-tier open VLM, competitive with GPT-4o on MathVista"
+
+  llava:
+    hf_id: lmms-lab/llava-onevision-qwen2-7b-ov
+    params: 7B
+    dtype: bfloat16
+    vram_gb: 15
+    notes: "Most cited open baseline — shows the floor"
+
+  gemma3:
+    hf_id: google/gemma-3-27b-it
+    params: 27B
+    dtype: bfloat16
+    vram_gb: 54
+    notes: "Google's model — multimodal since Gemma 3 (March 2025). Important for paper."
+
+  phi-vision:
+    hf_id: microsoft/Phi-3.5-vision-instruct
+    params: 4.2B
+    dtype: bfloat16
+    vram_gb: 9
+    notes: "Actual multimodal Phi model. Replaces Phi-3.5-MoE (which was text-only)."
+
+  llama4-scout:
+    hf_id: meta-llama/Llama-4-Scout-17B-16E-Instruct
+    params: "109B total, 17B active (MoE 16 experts)"
+    dtype: float8
+    vram_gb: 109
+    notes: "Llama 4 Scout fits in FP8. Maverick (400B) does not fit single MI300X (192GB)."
+
+  llava:
+    hf_id: lmms-lab/llava-onevision-qwen2-7b-ov-hf
+    params: 7B
+    dtype: bfloat16
+    requires_gpu: true
+    notes: "Popular open baseline; native HF support via LlavaOnevisionForConditionalGeneration"
+
+  pangea:
+    hf_id: neulab/Pangea-7B
+    params: 7B
+    dtype: bfloat16
+    requires_gpu: true
+    notes: "Explicitly multilingual VLM — key differentiator for paper; expect smaller cross-lingual gap"
+
+  qwen72b:
+    hf_id: Qwen/Qwen2.5-VL-72B-Instruct
+    params: 72B
+    dtype: bfloat16
+    vram_gb: 144
+    requires_gpu: true
+    notes: "Fits on MI300X (192GB HBM3). Direct size comparison vs qwen 7B — tests H4: do larger models show smaller cross-lingual gaps?"
+
+languages:
+  en:
+    name: English
+    script: Latin
+    family: baseline
+    flores_code: eng_Latn
+
+  hi:
+    name: Hindi
+    script: Devanagari
+    family: indo_aryan
+    flores_code: hin_Deva
+    speakers_M: 340
+
+  ta:
+    name: Tamil
+    script: Tamil
+    family: dravidian
+    flores_code: tam_Taml
+    speakers_M: 75
+
+  te:
+    name: Telugu
+    script: Telugu
+    family: dravidian
+    flores_code: tel_Telu
+    speakers_M: 75
+
+  bn:
+    name: Bengali
+    script: Bengali
+    family: indo_aryan
+    flores_code: ben_Beng
+    speakers_M: 265
+
+  kn:
+    name: Kannada
+    script: Kannada
+    family: dravidian
+    flores_code: kan_Knda
+    speakers_M: 44
+
+  mr:
+    name: Marathi
+    script: Devanagari
+    family: indo_aryan
+    flores_code: mar_Deva
+    speakers_M: 83
+
+datasets:
+  mathvista:
+    hf_id: AI4Math/MathVista
+    split: testmini
+    target_n: 400
+    category: math
+
+  scienceqa:
+    hf_id: lmms-lab/ScienceQA
+    config: ScienceQA-IMG
+    split: test
+    target_n: 400
+    category: science
+    filter: "subject == 'natural science' and has_image == True"
+
+  mmmu:
+    hf_id: MMMU/MMMU
+    split: validation
+    target_n: 200
+    category: stem
+    subjects:
+      - Math
+      - Physics
+      - Chemistry
+      - Architecture_and_Engineering
+      - Mechanical_Engineering
+      - Computer_Science
+
+translation:
+  primary: ai4bharat/indictrans2-en-indic-1B
+  batch_size: 32
+  num_beams: 5
+  max_length: 256
+  verify_samples_per_lang: 100
+  verify_api: gemini
+
+evaluation:
+  temperature: 0
+  max_tokens_mcq: 512
+  max_tokens_freeform: 1024
+  numerical_tolerance: 0.05
+  bootstrap_n: 2000
+  significance_threshold: 0.05

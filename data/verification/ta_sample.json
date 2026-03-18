@@ -1,0 +1,352 @@
+[
+  {
+    "id": "mathvista_430",
+    "english": "The derivative of f(x) at x=0 is ____ that at x=5",
+    "indictrans2": "f (x) இன் வழித்தோன்றல் x =0என்பது x =5",
+    "secondary": "x=0 இல் f(x) இன் டெரிவேடிவ் x=5 இல் உள்ளதை விட ____ ஆகும்.",
+    "agreement": 0.4848
+  },
+  {
+    "id": "mmmu_physics_0007",
+    "english": "A rod on a horizontal tabletop is pivoted at one end and is free to rotate without friction about a vertical axis, as shown. A force F is applied at the other end, at an angle $\\theta $ to the rod. If F were to be applied perpendicular to the rod, at what distance from the axis should it be applied in order to produce the same torque?<image 1>",
+    "indictrans2": "ஒரு கிடைமட்ட டேபிள் டாப்பில் உள்ள கம்பி ஒரு முனையில் சுழற்றப்பட்டு, செங்குத்து அச்சில் உராய்வு இல்லாமல் சுதந்திரமாக சுழல்கிறது, காட்டப்பட்டுள்ளபடி. மறுமுனையில் ஃபோர்ஸ் எஃப் பயன்படுத்தப்படுகிறது, தண்டுக்கு $\\theta $கோணத்தில். F தண்டுக்கு செங்குத்தாக பயன்படுத்தப்பட வேண்டும் என்றால், அதே முறுக்குவிசையை உருவாக்க அச்சிலிருந்து எந்த தூரத்தில் பயன்படுத்த வேண்டும்?",
+    "secondary": "ஒரு கிடைமட்ட மேசையின் மேல் உள்ள ஒரு கம்பி ஒரு முனையில் மையமாக்கப்பட்டுள்ளது மற்றும் ஒரு செங்குத்து அச்சு சுற்றி உராய்வில்லாமல் சுழலுவதற்கு சுதந்திரமாக உள்ளது, காட்டப்பட்டுள்ளபடி. மற்றொரு முனையில், கம்பிக்கு $\\theta $ கோணத்தில் ஒரு F விசை பயன்படுத்தப்படுகிறது. F கம்பிக்கு செங்குத்தாக பயன்படுத்தப்பட்டால், அதே சுழல் விசையை உருவாக்குவதற்கு அச்சு இருந்து எந்த தூரத்தில் பயன்படுத்தப்பட வேண்டும்?",
+    "agreement": 0.9333
+  },
+  {
+    "id": "mathvista_411",
+    "english": "What is the average percentage of population having access to electricity per year?",
+    "indictrans2": "ஆண்டுக்கு மின்சாரம் பெறும் மக்கள் தொகையின் சராசரி சதவீதம் என்ன?",
+    "secondary": "ஒவ்வொரு ஆண்டும் மின்சாரத்தை அணுகும் மக்கள் தொகையின் சராசரி சதவீதம் என்ன?",
+    "agreement": 0.8148
+  },
+  {
+    "id": "scienceqa_00347",
+    "english": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "indictrans2": "ஒவ்வொரு ஜோடியிலும் உள்ள காந்தங்களுக்கு இடையிலான காந்த விசையை நினைத்துப் பாருங்கள். பின்வரும் கூற்றுகளில் எது உண்மை?",
+    "secondary": "ஒவ்வொரு ஜோடியிலும் காந்தங்களுக்கிடையிலான காந்த விசையைப் பற்றி யோசிக்கவும். பின்வரும் அறிக்கைகளில் எது உண்மையானது?",
+    "agreement": 0.9091
+  },
+  {
+    "id": "mathvista_318",
+    "english": "Find the area of the figure. Round to the nearest tenth if necessary.",
+    "indictrans2": "உருவத்தின் பரப்பளவைக் கண்டறியவும். தேவைப்பட்டால் அருகிலுள்ள பத்தாவது வரை வட்டமிடவும்.",
+    "secondary": "படத்தின் பரப்பளவை கண்டறியவும். தேவைப்பட்டால் அருகிலுள்ள பத்திலுக்கு வட்டமிடவும்.",
+    "agreement": 0.9565
+  },
+  {
+    "id": "mmmu_chemistry_0026",
+    "english": "<image 1> Based on Coulomb's law and the information in the table above, which of the following anions is most likely to have the strongest interactions with nearby water molecules in an aqueous solution?",
+    "indictrans2": "கூலோம்ப் விதி மற்றும் மேலே உள்ள அட்டவணையில் உள்ள தகவல்களின் அடிப்படையில், பின்வரும் எதிர்மின் அயனிகளில் எது அருகிலுள்ள நீர் மூலக்கூறுகளுடன் நீரிய கரைசலில் வலுவான தொடர்புகளைக் கொண்டிருக்க வாய்ப்புள்ளது?",
+    "secondary": "கூலம்பின் சட்டம் மற்றும் மேலே உள்ள அட்டவணையில் உள்ள தகவலின் அடிப்படையில், நீர்க்கலவையில் அருகிலுள்ள நீர் மூலக்கூறுகளுடன் மிக வலுவான தொடர்புகளை ஏற்படுத்தக்கூடிய அனியன் எது?",
+    "agreement": 0.9375
+  },
+  {
+    "id": "mathvista_54",
+    "english": "In the figure above, the ratio of the length of line AB to the length of line AC is 2 : 5. If AC = 25, what is the length of line AB?",
+    "indictrans2": "மேலே உள்ள படத்தில், ஏபி கோட்டின் நீளத்திற்கும் ஏசி கோட்டின் நீளத்திற்கும் உள்ள விகிதம் 2: 5ஆகும்.",
+    "secondary": "மேலே உள்ள படத்தில், AB கோட்டின் நீளத்திற்கும் AC கோட்டின் நீளத்திற்கும் உள்ள விகிதம் 2 : 5 ஆகும். AC = 25 என்றால், AB கோட்டின் நீளம் என்ன?",
+    "agreement": 0.7353
+  },
+  {
+    "id": "scienceqa_00569",
+    "english": "Which of the following could Stanley's test show?",
+    "indictrans2": "பின்வருவனவற்றுள் எந்த ஸ்டான்லி'sசோதனையை காட்ட முடியும்?",
+    "secondary": "கீழ்கண்டவற்றில் எது ஸ்டான்லியின் பரிசோதனையை காட்ட முடியும்?",
+    "agreement": 0.7586
+  },
+  {
+    "id": "scienceqa_00109",
+    "english": "Which of the following could Edwin's test show?",
+    "indictrans2": "பின்வருவனவற்றுள் எவற்றால் எட்வினின் sசோதனையை காட்ட முடியும்?",
+    "secondary": "கீழ்கண்டவற்றில் எது எட்வினின் பரிசோதனையில் காட்டப்படலாம்?",
+    "agreement": 0.8077
+  },
+  {
+    "id": "scienceqa_00242",
+    "english": "Which property do these four objects have in common?",
+    "indictrans2": "இந்த நான்கு பொருட்களுக்கும் பொதுவான பண்பு என்ன?",
+    "secondary": "இந்த நான்கு பொருட்களுக்கும் பொதுவாக உள்ள பண்பு எது?",
+    "agreement": 0.95
+  },
+  {
+    "id": "mathvista_147",
+    "english": "The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles. Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?",
+    "indictrans2": "கீழே உள்ள வரைபடங்கள் ஒரே மாதிரியான மூடப்பட்ட, கடினமான கொள்கலன்களில் இரண்டு தூய வாயு மாதிரிகளைக் காட்டுகின்றன. ஒவ்வொரு வண்ண பந்தும் ஒரு வாயு துகள் குறிக்கிறது. இரண்டு மாதிரிகளும் ஒரே எண்ணிக்கையிலான துகள்களைக் கொண்டுள்ளன. ஒவ்வொரு மாதிரியிலும் உள்ள துகள்களின் சராசரி இயக்க ஆற்றல்களை ஒப்பிடுக. எந்த மாதிரியில் அதிக வெப்பநிலை உள்ளது?",
+    "secondary": "கீழே உள்ள வரைபடங்கள் ஒரே மாதிரியான மூடப்பட்ட, உறுதியான கொள்கலன்களில் உள்ள இரண்டு தூய வாயு மாதிரிகளை காட்டுகின்றன. ஒவ்வொரு நிறமுள்ள பந்தும் ஒரு வாயு துகளைக் குறிக்கிறது. இரு மாதிரிகளிலும் துகள்களின் எண்ணிக்கை ஒரே மாதிரியானது. ஒவ்வொரு மாதிரியிலும் துகள்களின் சராசரி கினெடிக் ஆற்றலை ஒப்பிடுங்கள். எந்த மாதிரி அதிக வெப்பநிலையைக் கொண்டுள்ளது?",
+    "agreement": 1.0
+  },
+  {
+    "id": "mmmu_architecture_and_engineering_0024",
+    "english": "A road is being proposed to facilitate a housing development on a scenic lake. Two alternatives have been suggested. One of the roadway alignments is to go around the lake  and slightly impact a wetland. The second alternative will also go around the lake and  will significantly impact two wetlands. The following table shows the anticipated costs  for each alternative. Assuming that the annual interestrate is 7 percent, determine which alternative is preferred using equivalent annual cost analysis.<image 1>",
+    "indictrans2": "ஒரு அழகிய ஏரியில் வீட்டுவசதி மேம்பாட்டை எளிதாக்க சாலை அமைக்க முன்மொழியப்பட்டுள்ளது. இரண்டு மாற்று வழிகள் பரிந்துரைக்கப்பட்டுள்ளன. சாலைப் பாதை சீரமைப்புகளில் ஒன்று ஏரியைச் சுற்றிச் சென்று ஒரு ஈரநிலத்தை சற்றே பாதிக்கும். இரண்டாவது மாற்று வழியும் ஏரியைச் சுற்றிச் சென்று இரண்டு ஈரநிலங்களை கணிசமாக பாதிக்கும். பின்வரும் அட்டவணை ஒவ்வொரு மாற்றுக்கும் எதிர்பார்க்கப்படும் செலவுகளைக் காட்டுகிறது. வருடாந்திர வட்டி விகிதம் 7சதவீதம் என்று கருதி, சமமான வருடாந்திர செலவு பகுப்பாய்வைப் பயன்படுத்தி எந்த மாற்றீட்டை விரும்புவது என்பதைத் தீர்மானிக்கவும்.",
+    "secondary": "ஒரு அழகிய ஏரியின் அருகே வீட்டு வளர்ச்சியை எளிதாக்க ஒரு சாலை முன்மொழியப்பட்டுள்ளது. இரண்டு மாற்று வழிகள் பரிந்துரைக்கப்பட்டுள்ளன. சாலை இணைப்புகளில் ஒன்று ஏரியைச் சுற்றி சென்று ஒரு சதுப்புநிலத்தை சிறிது பாதிக்கும். இரண்டாவது மாற்று வழியும் ஏரியைச் சுற்றி சென்று இரண்டு சதுப்புநிலங்களை முக்கியமாக பாதிக்கும். ஒவ்வொரு மாற்றிற்கும் எதிர்பார்க்கப்படும் செலவுகளை பின்வரும் அட்டவணை காட்டுகிறது. ஆண்டு வட்டி விகிதம் 7 சதவீதம் எனக் கருதி, சமமான ஆண்டு செலவுத்திறன் பகுப்பாய்வு மூலம் எந்த மாற்று வழி விரும்பத்தக்கது என்பதை தீர்மானிக்கவும்.",
+    "agreement": 0.9211
+  },
+  {
+    "id": "mathvista_452",
+    "english": "Based on the image, what is the most likely equilibrium population count?",
+    "indictrans2": "படத்தின் அடிப்படையில், பெரும்பாலும் சமநிலை மக்கள்தொகை எண்ணிக்கை என்ன?",
+    "secondary": "படத்தை அடிப்படையாகக் கொண்டு, மிக அதிகமான சமநிலை மக்கள் தொகை எண்ணிக்கை என்ன?",
+    "agreement": 0.92
+  },
+  {
+    "id": "mathvista_98",
+    "english": "Find the value of the square in the figure.",
+    "indictrans2": "படத்தில் சதுரத்தின் மதிப்பைக் கண்டறியவும்.",
+    "secondary": "படத்தில் சதுரத்தின் மதிப்பை கண்டறிக.",
+    "agreement": 0.8947
+  },
+  {
+    "id": "scienceqa_00267",
+    "english": "Select the organism in the same species as the reticulated python.",
+    "indictrans2": "வலையூட்டப்பட்ட மலைப்பாம்பு போன்ற அதே இனத்தில் உள்ள உயிரினத்தைத் தேர்ந்தெடுக்கவும்.",
+    "secondary": "ரெட்டிகுலேட்டட் பைத்தான் உடன் ஒரே இனத்தில் உள்ள உயிரினத்தைத் தேர்ந்தெடுக்கவும்.",
+    "agreement": 0.8214
+  },
+  {
+    "id": "mathvista_352",
+    "english": "How many people will fit in the smaller vehicle?",
+    "indictrans2": "சிறிய வாகனத்தில் எத்தனை பேர் அமர்வார்கள்?",
+    "secondary": "சிறிய வாகனத்தில் எத்தனை பேர் பொருந்துவார்கள்?",
+    "agreement": 0.7917
+  },
+  {
+    "id": "mmmu_computer_science_0019",
+    "english": "Can you add an DEPARTMENT if there are no EMPLOYEEs in the database in <image 1>?",
+    "indictrans2": "<படம் 1> இல் உள்ள தரவுத்தளத்தில் பணியிடங்கள் இல்லையென்றால் நீங்கள் ஒரு துறையைச் சேர்க்க முடியுமா?",
+    "secondary": "<படம் 1> இல் தரவுத்தளத்தில் EMPLOYEEகள் இல்லாவிட்டால் DEPARTMENTஐ சேர்க்க முடியுமா?",
+    "agreement": 0.5
+  },
+  {
+    "id": "scienceqa_00392",
+    "english": "Which is this organism's common name?",
+    "indictrans2": "இந்த உயிரினத்தின் பொதுவான பெயர் என்ன?",
+    "secondary": "இந்த உயிரினத்தின் பொதுவான பெயர் என்ன?",
+    "agreement": 1.0
+  },
+  {
+    "id": "scienceqa_00374",
+    "english": "Which solution has a higher concentration of pink particles?",
+    "indictrans2": "எந்த கரைசல் இளஞ்சிவப்பு துகள்களின் அதிக செறிவைக் கொண்டுள்ளது?",
+    "secondary": "எந்த தீர்வில் அதிக பிங்க் துகள்களின் திரவியம் உள்ளது?",
+    "agreement": 0.5333
+  },
+  {
+    "id": "mmmu_math_0016",
+    "english": "A man at a point P on the shore of a circular lake of radius 1 mile wants to reach the point Q on the shore diametrically opposite P (Fig. 16-5). He can row 1.5 miles per hour and walk 3 miles per hour. At what angle $\\theta $ ($0<\\theta < \\pi /2$) to the diameter PQ should he row in order to minimize the time required to reach Q? <image 1>",
+    "indictrans2": "Aமனிதன் ஒரு புள்ளியில் P ஆரம் கொண்ட ஒரு வட்ட ஏரியின் கரையில் உள்ளது 1மைல் கடற்கரையில் உள்ள புள்ளி Q ஐ அடைய விரும்புகிறது (படம் 16-5). அவர் மணிக்கு 1.5மைல்கள் மற்றும் மணிக்கு @மைல்கள் நடக்க முடியும்.",
+    "secondary": "ஒரு வட்ட வடிவ ஏரியின் கரையில் P என்ற இடத்தில் உள்ள ஒரு மனிதர், P இற்கு நேர்மாறாக எதிர்முகமாக உள்ள கரையில் Q என்ற இடத்தை அடைய விரும்புகிறார் (படம் 16-5). அவர் ஒரு மணி நேரத்தில் 1.5 மைல்கள் துடுப்போடு செல்ல முடியும் மற்றும் ஒரு மணி நேரத்தில் 3 மைல்கள் நடக்க முடியும். Q ஐ அடைய தேவையான நேரத்தை குறைக்க அவர் PQ விட்டிற்கு $\\theta $ ($0<\\theta < \\pi /2$) என்ற கோணத்தில் துடுப்போடு செல்ல வேண்டும்?",
+    "agreement": 0.5593
+  },
+  {
+    "id": "mmmu_physics_0022",
+    "english": "<image 1>A square loop of wire of side 0.5 meter and resistance 10^{-2} ohm is located in a uniform magnetic field of intensity 0.4 tesla directed out of the page as shown. The magnitude of the field is decreased to zero at a constant rate in 2 seconds. As the field is decreased, what are the magnitude and direction of the current in the loop?",
+    "indictrans2": "<படம் 1Aசதுர சுழற்சி பக்க கம்பியின் கம்பி 0.5மீட்டர் மற்றும் எதிர்ப்பு 10ஓம் காட்டப்பட்டுள்ளபடி பக்கத்திற்கு வெளியே திசை திருப்பப்பட்ட ஒரு சீரான காந்தப்புலத்தில் அமைந்துள்ளது. புலத்தின் அளவு 2விநாடிகளில் ஒரு நிலையான விகிதத்தில் பூஜ்ஜியமாக குறைக்கப்படுகிறது. புலம் குறைக்கப்படும்போது, வளையத்தில் மின்னோட்டத்தின் அளவு மற்றும் திசை என்ன?",
+    "secondary": "கம்பி கொண்ட ஒரு சதுர வளையத்தின் பக்க அளவு 0.5 மீட்டர் மற்றும் எதிர்ப்பு 10^{-2} ஓம் ஆகும். இது பக்கத்திலிருந்து வெளியே நோக்கி உள்ள 0.4 டெஸ்லா மாறாத காந்த புலத்தில் அமைந்துள்ளது. புலத்தின் அளவு 2 வினாடிகளில் மாறாத வீதத்தில் பூஜ்யமாக குறைக்கப்படுகிறது. புலம் குறைக்கப்படும் போது, வளையத்தில் உள்ள மின்னோட்டத்தின் அளவு மற்றும் திசை என்ன?",
+    "agreement": 0.7255
+  },
+  {
+    "id": "mathvista_433",
+    "english": "What is the age gap between these two people in image?",
+    "indictrans2": "படத்தில் உள்ள இந்த இரண்டு நபர்களுக்கும் இடையிலான வயது இடைவெளி என்ன?",
+    "secondary": "இந்த படத்தில் உள்ள இந்த இரண்டு أشخاصக்கிடையிலான عمرك் க்குறைவானது என்ன?",
+    "agreement": 0.6471
+  },
+  {
+    "id": "scienceqa_00306",
+    "english": "Complete the text to describe the diagram.\nSolute particles moved in both directions across the permeable membrane. But more solute particles moved across the membrane (). When there was an equal concentration on both sides, the particles reached equilibrium.",
+    "indictrans2": "வரைபடத்தை விவரிக்க உரையை முடிக்கவும். கரைசல் துகள்கள் ஊடுருவக்கூடிய சவ்வின் குறுக்கே இரு திசைகளிலும் நகர்ந்தன. ஆனால் அதிக கரைசல் துகள்கள் சவ்வின் குறுக்கே நகர்ந்தன (). இருபுறமும் சமமான செறிவு இருக்கும்போது, துகள்கள் சமநிலையை அடைந்தன.",
+    "secondary": "கரைசல் துகள்கள் ஊடுருவக்கூடிய ஜாலத்தின் குறுக்கே இரு திசைகளிலும் நகர்ந்தன. ஆனால் மேலும் கரைசல் துகள்கள் ஜாலத்தின் குறுக்கே நகர்ந்தன (). இரு பக்கங்களிலும் சம அளவு திரளில் இருந்தபோது, துகள்கள் சமநிலை அடைந்தன.",
+    "agreement": 0.8857
+  },
+  {
+    "id": "mathvista_232",
+    "english": "The diagram below is a model of two solutions. Each pink ball represents one particle of solute. Which solution has a higher concentration of pink particles?",
+    "indictrans2": "கீழே உள்ள வரைபடம் இரண்டு கரைசல்களின் மாதிரியாகும். ஒவ்வொரு இளஞ்சிவப்பு பந்து கரைசலின் ஒரு துகள் குறிக்கிறது. எந்த கரைசல் இளஞ்சிவப்பு துகள்களின் அதிக செறிவைக் கொண்டுள்ளது?",
+    "secondary": "கீழே உள்ள வரைபடம் இரண்டு தீர்வுகளின் மாதிரியைக் காட்டுகிறது. ஒவ்வொரு இளஞ்சிவப்பு பந்தும் ஒரு கரையக்கூடிய துகளைக் குறிக்கிறது. எந்த தீர்வில் இளஞ்சிவப்பு துகள்களின் அதிக செறிவு உள்ளது?",
+    "agreement": 0.9714
+  },
+  {
+    "id": "scienceqa_00522",
+    "english": "Which solution has a higher concentration of pink particles?",
+    "indictrans2": "எந்த கரைசல் இளஞ்சிவப்பு துகள்களின் அதிக செறிவைக் கொண்டுள்ளது?",
+    "secondary": "எந்த தீர்வில் அதிக பிங்க் துகள்களின் செறிவு உள்ளது?",
+    "agreement": 0.6786
+  },
+  {
+    "id": "mathvista_88",
+    "english": "A square is tangent to a line at point P in the figure above. What is the value of x?",
+    "indictrans2": "Aசதுரம் என்பது மேலே உள்ள படத்தில் உள்ள புள்ளி P இல் உள்ள ஒரு கோட்டின் தொடுகோடு ஆகும். x இன் மதிப்பு என்ன?",
+    "secondary": "மேலே உள்ள படத்தில் ஒரு சதுரம் P புள்ளியில் ஒரு நேர்க்கோட்டிற்கு உராய்வாக உள்ளது. x இன் மதிப்பு என்ன?",
+    "agreement": 0.75
+  },
+  {
+    "id": "mathvista_57",
+    "english": "Subtract all small balls. Subtract all blue rubber things. How many objects are left?",
+    "indictrans2": "அனைத்து சிறிய பந்துகளையும் கழிக்கவும். அனைத்து நீல ரப்பர் பொருட்களையும் கழிக்கவும். எத்தனை பொருட்கள் உள்ளன?",
+    "secondary": "அனைத்து சிறிய பந்துகளையும் கழிக்கவும். அனைத்து நீல ரப்பர் பொருட்களையும் கழிக்கவும். எத்தனை பொருட்கள் மீதமுள்ளது?",
+    "agreement": 0.963
+  },
+  {
+    "id": "scienceqa_00449",
+    "english": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "indictrans2": "ஒவ்வொரு ஜோடியிலும் உள்ள காந்தங்களுக்கு இடையிலான காந்த விசையை நினைத்துப் பாருங்கள். பின்வரும் கூற்றுகளில் எது உண்மை?",
+    "secondary": "ஒவ்வொரு ஜோடியிலும் காந்தங்களுக்கிடையிலான காந்த விசையைப் பற்றி யோசிக்கவும். பின்வரும் அறிக்கைகளில் எது உண்மையானது?",
+    "agreement": 0.9091
+  },
+  {
+    "id": "mathvista_276",
+    "english": "As shown in the figure, it is known that the radius of ⊙O is 5.0 and the chord AB = 8.0, then the distance from the center O to AB is ()",
+    "indictrans2": "படத்தில் காட்டப்பட்டுள்ளபடி, ØO இன் ஆரம் 5.0மற்றும் நாண் AB =8.0என்று அறியப்படுகிறது, பின்னர் O மையத்திலிருந்து AB க்கு உள்ள தூரம் () ஆகும்.",
+    "secondary": "படத்தில் காட்டப்பட்டுள்ளபடி, ⊙O வின் ஆரம் 5.0 என்றும், AB என்ற ஜ்யா 8.0 என்றும் தெரிந்தால், மையம் O விலிருந்து AB வரை உள்ள தூரம் ()",
+    "agreement": 0.7805
+  },
+  {
+    "id": "scienceqa_00640",
+    "english": "Complete the statement.\nEthane is ().",
+    "indictrans2": "அறிக்கையை முடிக்கவும். ஈத்தேன் என்பது ().",
+    "secondary": "எதேன் என்பது ().",
+    "agreement": 0.5238
+  },
+  {
+    "id": "mathvista_348",
+    "english": "Are the pieces in triangle cuts?",
+    "indictrans2": "துண்டுகள் முக்கோண வெட்டுக்களில் உள்ளனவா?",
+    "secondary": "முக்கோண வெட்டுகளில் துண்டுகள் உள்ளதா?",
+    "agreement": 0.9444
+  },
+  {
+    "id": "mathvista_100",
+    "english": "What is the sum of all the values in the ruling group?",
+    "indictrans2": "ஆளும் குழுவில் உள்ள அனைத்து மதிப்புகளின் கூட்டுத்தொகை என்ன?",
+    "secondary": "ஆட்சி குழுவில் உள்ள அனைத்து மதிப்புகளின் கூட்டுத்தொகை என்ன?",
+    "agreement": 0.9565
+  },
+  {
+    "id": "mmmu_physics_0015",
+    "english": "A particle continuously moves in a circular path at constant speed in a counterclockwise direction. Consider a time interval during which the particle moves along this circular path from point P to point Q. Point Q is exactly half-way around the circle from Point P.<image 1>What is the direction of the average velocity during this time interval?",
+    "indictrans2": "Aதுகள் ஒரு வட்டப் பாதையில் ஒரு நிலையான வேகத்தில் எதிரெதிர் திசையில் தொடர்ந்து நகர்கிறது. துகள் இந்த வட்டப் பாதையில் புள்ளி P இலிருந்து புள்ளி Q க்கு நகரும் நேர இடைவெளியைக் கவனியுங்கள். புள்ளி Q என்பது புள்ளி P இலிருந்து வட்டத்தைச் சுற்றி சரியாக பாதி -way ஆகும். இந்த நேர இடைவெளியில் சராசரி வேகத்தின் திசை என்ன?",
+    "secondary": "ஒரு துகள் ஒரு வட்ட பாதையில் இடைவிடாது மாறாத வேகத்தில் எதிர் கடிகார திசையில் நகர்கிறது. இந்த துகள் புள்ளி P-இல் இருந்து புள்ளி Q-க்கு இந்த வட்ட பாதையில் நகரும் ஒரு கால இடைவெளியை பரிசீலிக்கவும். புள்ளி Q, புள்ளி P-இல் இருந்து வட்டத்தின் சரியாக பாதி தூரத்தில் உள்ளது. இந்த கால இடைவெளியில் சராசரி வேகத்தின் திசை என்ன?",
+    "agreement": 0.7317
+  },
+  {
+    "id": "mathvista_281",
+    "english": "Was this a square pizza?",
+    "indictrans2": "ஒரு சதுர பீட்சா?",
+    "secondary": "இது ஒரு சதுர பீட்சா தானா?",
+    "agreement": 0.8571
+  },
+  {
+    "id": "mmmu_physics_0027",
+    "english": "<image 1>A picture P of weight W is hung by two strings as shown. The magnitude of the tension force of each string is T. The total upward pull of the strings on the picture is:",
+    "indictrans2": "<படம் 1Aபடம் பி எடை Wகாட்டப்பட்டுள்ளபடி இரண்டு சரங்களால் தொங்கவிடப்பட்டுள்ளது. ஒவ்வொரு சரத்தின் அழுத்த விசையின் அளவு டி. படத்தில் உள்ள சரங்களின் மொத்த மேல்நோக்கிய இழுப்பு பின்வருமாறுஃ",
+    "secondary": "படம் P, எடை W கொண்டது, இரண்டு கயிறுகளால் தொங்கவிடப்பட்டுள்ளது. ஒவ்வொரு கயிறின் இழுவிசை வலுவின் அளவு T ஆகும். படத்தின் மீது கயிறுகளின் மொத்த மேல்நோக்கி இழுக்கும் வலு:",
+    "agreement": 0.7442
+  },
+  {
+    "id": "mathvista_122",
+    "english": "Are there fewer yellow regular buss than small yellow metallic school buss?",
+    "indictrans2": "சிறிய மஞ்சள் உலோக பள்ளி பேருந்துகளை விட குறைவான மஞ்சள் வழக்கமான பேருந்துகள் உள்ளனவா?",
+    "secondary": "மஞ்சள் நிற சாதாரண பேருந்துகள், சிறிய மஞ்சள் உலோக பள்ளி பேருந்துகளை விட குறைவா?",
+    "agreement": 0.8571
+  },
+  {
+    "id": "mathvista_454",
+    "english": "What is the value of the smallest individual bar in the whole chart?",
+    "indictrans2": "முழு விளக்கப்படத்திலும் உள்ள மிகச்சிறிய தனிப்பட்ட பட்டியின் மதிப்பு என்ன?",
+    "secondary": "முழு வரைபடத்தில் சிறிய தனிப்பட்ட பட்டியின் மதிப்பு என்ன?",
+    "agreement": 0.7727
+  },
+  {
+    "id": "mathvista_335",
+    "english": "Subtract all large brown matte balls. Subtract all blue cylinders. How many objects are left?",
+    "indictrans2": "அனைத்து பெரிய பழுப்பு நிற மேட் பந்துகளையும் கழிக்கவும். அனைத்து நீல சிலிண்டர்களையும் கழிக்கவும். எத்தனை பொருள்கள் உள்ளன?",
+    "secondary": "அனைத்து பெரிய பழுப்பு மாட்டே பந்துகளையும் கழிக்கவும். அனைத்து நீல சிலிண்டர்களையும் கழிக்கவும். எத்தனை பொருட்கள் மீதமுள்ளது?",
+    "agreement": 0.9032
+  },
+  {
+    "id": "scienceqa_00100",
+    "english": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?",
+    "indictrans2": "ஒவ்வொரு மாதிரியிலும் உள்ள துகள்களின் சராசரி இயக்க ஆற்றல்களை ஒப்பிடுங்கள். எந்த மாதிரியில் அதிக வெப்பநிலை உள்ளது?",
+    "secondary": "ஒவ்வொரு மாதிரியிலும் உள்ள துகள்களின் சராசரி இயக்க ஆற்றலை ஒப்பிடுங்கள். எந்த மாதிரி அதிக வெப்பநிலையைக் கொண்டுள்ளது?",
+    "agreement": 0.9688
+  },
+  {
+    "id": "scienceqa_00408",
+    "english": "Which month is the hottest on average in Cape Town?",
+    "indictrans2": "கேப் டவுனில் சராசரியாக எந்த மாதம் மிகவும் வெப்பமானது?",
+    "secondary": "கேப் டவுனில் சராசரியாக எந்த மாதம் அதிக வெப்பமானது?",
+    "agreement": 0.9545
+  },
+  {
+    "id": "mmmu_computer_science_0024",
+    "english": "What would be the ideal complexity of the curve which can beused for separating the two classes shown in the image below?<image 1>",
+    "indictrans2": "கீழே உள்ள படத்தில் காட்டப்பட்டுள்ள இரண்டு வகுப்புகளையும் பிரிக்க பயன்படுத்தக்கூடிய வளைவின் சிறந்த சிக்கலானது என்னவாக இருக்கும்?",
+    "secondary": "படத்தில் காட்டப்பட்டுள்ள இரண்டு வகுப்புகளைப் பிரிக்க பயன்படுத்தக்கூடிய வளைவின் சரியான சிக்கலான தன்மை என்னவாக இருக்கும்?",
+    "agreement": 0.7931
+  },
+  {
+    "id": "mathvista_436",
+    "english": "How many algorithms have accuracy lower than 8 in at least one dataset?",
+    "indictrans2": "குறைந்தபட்சம் ஒரு தரவுத்தொகுப்பில் எத்தனை அல்மார்டு ms 8 ஐ விட குறைவான துல்லியத்தைக் கொண்டுள்ளன?",
+    "secondary": "எத்தனை அல்காரிதம்கள் குறைந்தது ஒரு தரவுத்தொகுப்பில் 8-க்கு குறைவான துல்லியத்தைக் கொண்டுள்ளன?",
+    "agreement": 0.8387
+  },
+  {
+    "id": "mathvista_200",
+    "english": "Is Light Sky Blue the high median?",
+    "indictrans2": "ஒளி வானம் நீலம் உயர் சராசரி?",
+    "secondary": "லைட் ஸ்கை ப்ளூ உயர்ந்த மத்திய மதிப்பா?",
+    "agreement": 0.5
+  },
+  {
+    "id": "mathvista_443",
+    "english": "As shown in the figure: In Rt△ABC, ∠C = 90.0, AC = 8.0, AB = 10.0, then the value of sinB is equal to ()",
+    "indictrans2": "படத்தில் காட்டப்பட்டுள்ளபடிஃ ஆர். டி. டி. டி. ஏ. பி. சி. யில், άντ C=90.0, ஏசி =8.0, ஏபி =10.0, பின்னர் சின்பியின் மதிப்பு () க்கு சமம்.",
+    "secondary": "படத்தில் காட்டப்பட்டுள்ளபடி: Rt△ABC இல், ∠C = 90.0, AC = 8.0, AB = 10.0, அப்பொழுது sinB இன் மதிப்பு () க்கு சமம்.",
+    "agreement": 0.5217
+  },
+  {
+    "id": "mathvista_424",
+    "english": "Is the food half eaten?",
+    "indictrans2": "உணவு பாதி சாப்பிடப்பட்டதா?",
+    "secondary": "உணவு பாதியாக சாப்பிடப்பட்டதா?",
+    "agreement": 0.8667
+  },
+  {
+    "id": "mathvista_252",
+    "english": "Consider the infinitely long chain of resistors shown below. What is the resistance between terminals a and b if R=1?",
+    "indictrans2": "கீழே காட்டப்பட்டுள்ள எல்லையற்ற நீண்ட மின்தடைகளின் சங்கிலியைக் கவனியுங்கள். R =1என்றால் முனையங்களுக்கு இடையே உள்ள மின்தடையின் அளவு என்ன?",
+    "secondary": "மூலையில் காட்டப்பட்டுள்ள முடிவில்லா நீளமுள்ள எதிர்ப்பு சங்கிலியை பரிசீலிக்கவும். R=1 என்றால், முனையங்கள் a மற்றும் b இடையிலான எதிர்ப்பு என்ன?",
+    "agreement": 0.7368
+  },
+  {
+    "id": "scienceqa_00464",
+    "english": "Which property do these three objects have in common?",
+    "indictrans2": "இந்த மூன்று பொருட்களுக்கும் பொதுவான பண்பு என்ன?",
+    "secondary": "இந்த மூன்று பொருட்களுக்கும் பொதுவாக உள்ள சொத்து எது?",
+    "agreement": 0.8696
+  },
+  {
+    "id": "mathvista_323",
+    "english": "Craig just downloaded the new game Gem Excavator on his phone. In the first level, Craig gains points for each green gem he finds. However, he loses points for each red gem he finds. The table shows how the gems affect Craig's points. Which color gem affects Craig's points less?'",
+    "indictrans2": "கிரெய்க் தனது தொலைபேசியில் ஜெம் எக்ஸ்கேவேட்டர் என்ற புதிய விளையாட்டை பதிவிறக்கம் செய்தார். முதல் கட்டத்தில், கிரெய்க் தான் கண்டுபிடிக்கும் ஒவ்வொரு பச்சை ரத்தினத்திற்கும் புள்ளிகளைப் பெறுகிறார். இருப்பினும், அவர் கண்டுபிடிக்கும் ஒவ்வொரு சிவப்பு ரத்தினத்திற்கும் புள்ளிகளை இழக்கிறார். ரத்தினங்கள் கிரெய்க்கை எவ்வாறு பாதிக்கின்றன என்பதை அட்டவணை காட்டுகிறது'sபுள்ளிகள். எந்த வண்ண ரத்தினமானது கிரெய்க்கை'sபுள்ளிகள் குறைவாக பாதிக்கிறது? '",
+    "secondary": "கிரேக் தனது தொலைபேசியில் புதிய விளையாட்டு ஜெம் எக்ஸ்கவேட்டரை இப்போதுதான் பதிவிறக்கம் செய்தார். முதல் நிலையில், கிரேக் கண்டுபிடிக்கும் ஒவ்வொரு பச்சை ரத்தினத்திற்கும் புள்ளிகள் கிடைக்கும். எனினும், அவர் கண்டுபிடிக்கும் ஒவ்வொரு சிவப்பு ரத்தினத்திற்கும் புள்ளிகள் இழக்கிறார். ரத்தினங்கள் கிரேக்கின் புள்ளிகளை எவ்வாறு பாதிக்கின்றன என்பதை அட்டவணை காட்டுகிறது. கிரேக்கின் புள்ளிகளை குறைவாக பாதிக்கும் நிற ரத்தினம் எது?",
+    "agreement": 0.9211
+  },
+  {
+    "id": "scienceqa_00519",
+    "english": "Which property do these four objects have in common?",
+    "indictrans2": "இந்த நான்கு பொருட்களுக்கும் பொதுவான பண்பு என்ன?",
+    "secondary": "இந்த நான்கு பொருட்களுக்கும் பொதுவாக உள்ள பண்பு எது?",
+    "agreement": 0.95
+  },
+  {
+    "id": "mmmu_mechanical_engineering_0009",
+    "english": "Find the spring constant of the bimetallic bar shown in <image 1> in axial motion.",
+    "indictrans2": "அச்சு இயக்கத்தில் <படம் 1@> இல் காட்டப்பட்டுள்ள இரு உலோகப் பட்டியின் வசந்த மாறிலியைக் கண்டறியவும்.",
+    "secondary": "<image 1> இல் காட்டப்பட்டுள்ள இருமெட்டல் கம்பியின் அச்சு இயக்கத்தில் உள்ள வசந்த மாறிலியை கண்டறியவும்.",
+    "agreement": 0.7778
+  }
+]

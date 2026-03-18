@@ -1,0 +1,352 @@
+[
+  {
+    "id": "mathvista_298",
+    "english": "A decrease in rabbits would affect whose food source?",
+    "indictrans2": "Aখরগোশের সংখ্যা কমে যাওয়া কার খাদ্যের উৎসকে প্রভাবিত করবে?",
+    "secondary": "খরগোশের সংখ্যা কমে গেলে কার খাদ্য উৎস প্রভাবিত হবে?",
+    "agreement": 0.8214
+  },
+  {
+    "id": "scienceqa_00590",
+    "english": "Which of these organisms contains matter that was once part of the lichen?",
+    "indictrans2": "এই জীবগুলির মধ্যে কোনটিতে এমন পদার্থ রয়েছে যা একসময় লাইকেনের অংশ ছিল?",
+    "secondary": "এই জীবগুলির মধ্যে কোনটি লাইকেনের অংশ ছিল এমন পদার্থ ধারণ করে?",
+    "agreement": 0.8788
+  },
+  {
+    "id": "scienceqa_00279",
+    "english": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "indictrans2": "প্রতিটি জোড়ায় চুম্বকের মধ্যে চৌম্বক বলের কথা ভাবুন। নিচের কোন বিবৃতিটি সত্য?",
+    "secondary": "প্রতিটি জোড়ায় চুম্বকের মধ্যে চৌম্বকীয় বল সম্পর্কে চিন্তা করুন। নিম্নলিখিত বিবৃতিগুলির মধ্যে কোনটি সত্য?",
+    "agreement": 0.8438
+  },
+  {
+    "id": "scienceqa_00245",
+    "english": "Is the following statement about our solar system true or false?\nThe volume of Mars is more than ten times as large as Mercury's.",
+    "indictrans2": "আমাদের সৌরজগত সম্পর্কে নিম্নলিখিত বিবৃতিটি কি সত্য বা মিথ্যা? মঙ্গলের আয়তন বুধের চেয়ে দশগুণ বেশি's।",
+    "secondary": "আমাদের সৌরজগতের সম্পর্কে নিম্নলিখিত বিবৃতি কি সত্য না মিথ্যা?\nমঙ্গলের আয়তন বুধের চেয়ে দশ গুণের বেশি বড়।",
+    "agreement": 0.8649
+  },
+  {
+    "id": "mathvista_317",
+    "english": "What is the age gap between these two people in image?",
+    "indictrans2": "ছবিতে এই দুই ব্যক্তির মধ্যে বয়সের ব্যবধান কত?",
+    "secondary": "এই ছবিতে এই দুই ব্যক্তির মধ্যে বয়সের পার্থক্য কত?",
+    "agreement": 0.8696
+  },
+  {
+    "id": "scienceqa_00592",
+    "english": "Which material is this door made of?",
+    "indictrans2": "এই দরজাটি কোন উপাদান দিয়ে তৈরি?",
+    "secondary": "এই দরজাটি কোন উপাদান দিয়ে তৈরি?",
+    "agreement": 1.0
+  },
+  {
+    "id": "scienceqa_00313",
+    "english": "Which trait did this aurochs have? Select the trait you can observe on the fossil.",
+    "indictrans2": "এই অরোকদের কোন বৈশিষ্ট্য ছিল? জীবাশ্মের উপর আপনি যে বৈশিষ্ট্যটি পর্যবেক্ষণ করতে পারেন তা নির্বাচন করুন।",
+    "secondary": "এই অরক্সটির কোন বৈশিষ্ট্য ছিল? ফসিলে আপনি যে বৈশিষ্ট্যটি পর্যবেক্ষণ করতে পারেন তা নির্বাচন করুন।",
+    "agreement": 0.8
+  },
+  {
+    "id": "scienceqa_00056",
+    "english": "As Rusty pulls on the toy, what is the direction of the opposing force?",
+    "indictrans2": "রাস্টি যখন খেলনাটি টানছে, তখন বিরোধী শক্তির দিক কী?",
+    "secondary": "যখন রাস্টি খেলনাটি টানে, বিপরীত বলের দিক কী?",
+    "agreement": 0.7917
+  },
+  {
+    "id": "mmmu_math_0029",
+    "english": "Square $ABCD$ has side length $1$. Points $P$, $Q$, $R$, and $S$ each lie on a side of $ABCD$ such that $APQCRS$ is an equilateral convex hexagon with side length $s$. What is $s$? <image 1>",
+    "indictrans2": "বর্গ $ABCD $এর পার্শ্ব দৈর্ঘ্য $1$। পয়েন্ট $P $, $Q $, $R $, এবং $S $প্রতিটি $ABCD $এর এক পাশে এমনভাবে থাকে যে $APQCRS $একটি সমবাহু উত্তল ষড়ভুজ যার পার্শ্ব দৈর্ঘ্য $s$।",
+    "secondary": "বর্গক্ষেত্র $ABCD$ এর বাহুর দৈর্ঘ্য $1$। বিন্দুগুলি $P$, $Q$, $R$, এবং $S$ প্রতিটি $ABCD$ এর একটি বাহুর উপর অবস্থিত যাতে $APQCRS$ একটি সমবাহু উত্তল ষড়ভুজ যার বাহুর দৈর্ঘ্য $s$। $s$ এর মান কত?",
+    "agreement": 0.9362
+  },
+  {
+    "id": "scienceqa_00312",
+    "english": "Which property do these two objects have in common?",
+    "indictrans2": "এই দুটি বস্তুর s-এর মধ্যে কোন বৈশিষ্ট্যের মিল রয়েছে?",
+    "secondary": "এই দুটি বস্তুর মধ্যে কোন সম্পত্তিটি সাধারণ?",
+    "agreement": 0.6452
+  },
+  {
+    "id": "scienceqa_00010",
+    "english": "Which better describes the Daintree rain forest ecosystem?",
+    "indictrans2": "ডেন্ট্রি রেইন ফরেস্ট বাস্তুতন্ত্রকে কে আরও ভালভাবে বর্ণনা করে?",
+    "secondary": "ডেইনট্রি রেইন ফরেস্ট ইকোসিস্টেমকে কোনটি ভালোভাবে বর্ণনা করে?",
+    "agreement": 0.75
+  },
+  {
+    "id": "mathvista_433",
+    "english": "What is the age gap between these two people in image?",
+    "indictrans2": "ছবিতে এই দুই ব্যক্তির মধ্যে বয়সের ব্যবধান কত?",
+    "secondary": "এই ছবিতে এই দুই ব্যক্তির মধ্যে বয়সের পার্থক্য কত?",
+    "agreement": 0.7917
+  },
+  {
+    "id": "mathvista_265",
+    "english": "Justine's P.E. class participated in a push-up competition, and Justine wrote down how many push-ups each person could do. How many people did at least 60 push-ups? (Unit: people)",
+    "indictrans2": "জাস্টিন'sP. E. ক্লাস একটি পুশ -up প্রতিযোগিতায় অংশ নিয়েছিল এবং জাস্টিন লিখেছিল যে প্রতিটি ব্যক্তি কত পুশ -ups করতে পারে। কমপক্ষে কতজন লোক 60পুশ -ups করেছে? (ইউনিটঃ মানুষ)",
+    "secondary": "জাস্টিনের শারীরিক শিক্ষার ক্লাস একটি পুশ-আপ প্রতিযোগিতায় অংশগ্রহণ করেছিল, এবং জাস্টিন লিখে রেখেছিল প্রতিটি ব্যক্তি কতগুলি পুশ-আপ করতে পারে। কতজন ব্যক্তি অন্তত 60 পুশ-আপ করেছে? (একক: জন)",
+    "agreement": 0.6667
+  },
+  {
+    "id": "mathvista_167",
+    "english": "What is the biggest zero of this function?",
+    "indictrans2": "এই ফাংশনের সবচেয়ে বড় শূন্য কোনটি?",
+    "secondary": "এই ফাংশনের সবচেয়ে বড় শূন্য কোনটি?",
+    "agreement": 1.0
+  },
+  {
+    "id": "scienceqa_00197",
+    "english": "Will these magnets attract or repel each other?",
+    "indictrans2": "এই চুম্বকগুলি কি একে অপরকে আকর্ষণ করবে নাকি প্রতিহত করবে?",
+    "secondary": "এই চুম্বকগুলি কি একে অপরকে আকর্ষণ করবে নাকি বিকর্ষণ করবে?",
+    "agreement": 0.9167
+  },
+  {
+    "id": "scienceqa_00171",
+    "english": "Which property do these four objects have in common?",
+    "indictrans2": "এই চারটি বস্তুর s-এর মধ্যে কোন বৈশিষ্ট্যের মিল রয়েছে?",
+    "secondary": "এই চারটি বস্তুর মধ্যে কোন সম্পত্তিটি সাধারণ?",
+    "agreement": 0.6774
+  },
+  {
+    "id": "mathvista_112",
+    "english": "Is the number of big cyan airliners less than the number of gray shiny utility bikes?",
+    "indictrans2": "বড় সায়ান বিমানের সংখ্যা কি ধূসর চকচকে ইউটিলিটি বাইকের সংখ্যার চেয়ে কম?",
+    "secondary": "বড় সায়ান এয়ারলাইনারের সংখ্যা কি ধূসর চকচকে ইউটিলিটি বাইকের সংখ্যার চেয়ে কম?",
+    "agreement": 0.96
+  },
+  {
+    "id": "scienceqa_00607",
+    "english": "What is the probability that a horse produced by this cross will have a reddish-brown coat?",
+    "indictrans2": "এই ক্রুশ দ্বারা উত্পাদিত একটি ঘোড়ার লালচে -brown কোট থাকার সম্ভাবনা কত?",
+    "secondary": "এই ক্রস দ্বারা উৎপাদিত ঘোড়ার লালচে-বাদামী কোট থাকার সম্ভাবনা কত?",
+    "agreement": 0.7568
+  },
+  {
+    "id": "mathvista_59",
+    "english": "As shown in the figure, AB is the diameter of ⊙O, CD is the chord of ⊙O, ∠ADC = 26.0, then the degree of ∠CAB is ()",
+    "indictrans2": "চিত্রে যেমন দেখানো হয়েছে, এবি হল ওওরোর ব্যাস, সিডি হল ওওর কর্ড, এ. ডি. সি @s @@s @@, তারপর এ. সি. এ. বি-এর ডিগ্রি হল ()",
+    "secondary": "যেমনটি চিত্রে দেখানো হয়েছে, AB হল ⊙O এর ব্যাস, CD হল ⊙O এর জ্যা, ∠ADC = 26.0, তাহলে ∠CAB এর ডিগ্রি হল ()",
+    "agreement": 0.587
+  },
+  {
+    "id": "mmmu_physics_0021",
+    "english": "<image 1>The diagram shows light being emitted due to a transition from the n=3 to the n=2 level of a hydrogen atom in the Bohr model. If the transition were from the n=3 to the n=1 level instead, the light emitted would have",
+    "indictrans2": "<ইমেজ 1রেখাচিত্রটি দেখায় যে বোর মডেলে হাইড্রোজেন পরমাণুর n =3থেকে n =2স্তরে রূপান্তরিত হওয়ার কারণে আলো নির্গত হচ্ছে। যদি রূপান্তরটি n =3থেকে এন =1স্তরে হয়, তবে নির্গত আলোটি থাকে",
+    "secondary": "বোর মডেলে একটি হাইড্রোজেন পরমাণুর n=3 স্তর থেকে n=2 স্তরে স্থানান্তরের কারণে আলো নির্গত হচ্ছে এমন একটি চিত্র দেখানো হয়েছে। যদি স্থানান্তরটি n=3 থেকে n=1 স্তরে হত, তবে নির্গত আলোটির থাকত",
+    "agreement": 0.9286
+  },
+  {
+    "id": "mathvista_131",
+    "english": "How many bars have value below 40?",
+    "indictrans2": "কত বারের মান 40 এর নিচে?",
+    "secondary": "কতটি বার 40 এর নিচে মান রয়েছে?",
+    "agreement": 0.7895
+  },
+  {
+    "id": "mathvista_186",
+    "english": "As shown in the figure, CD is a plane mirror, the light is emitted from point A, reflected by point E on CD, and irradiated to point B. If the incident angle is α, AC ⊥ CD, BD ⊥ CD, the feet of perpendicular are C, D, and AC = 3.0, BD = 6.0, CD = 10.0, then the length of the line segment ED is ()",
+    "indictrans2": "চিত্রে যেমন দেখানো হয়েছে, সিডি হল একটি সমতল আয়না, সিডি-তে বিন্দু ই দ্বারা প্রতিফলিত বিন্দু Aথেকে আলো নির্গত হয় এবং বিন্দু B-এ বিকিরণ করা হয়। যদি আপতিত কোণটি α, এসি সিডি, বিডি সিডি হয়, তবে লম্বের ফুটগুলি হল C, D, এবং এসি =5 @, বিডি =<@50> @, সিডি =10.0, তাহলে লাইন সেগমেন্ট ইডি-র দৈর্ঘ্য হল ()",
+    "secondary": "যেমনটি চিত্রে দেখানো হয়েছে, CD একটি সমতল আয়না, আলো A বিন্দু থেকে নির্গত হয়, CD এর E বিন্দুতে প্রতিফলিত হয় এবং B বিন্দুতে গিয়ে পড়ে। যদি আপতন কোণ α হয়, AC ⊥ CD, BD ⊥ CD, লম্বের পাদ C, D, এবং AC = 3.0, BD = 6.0, CD = 10.0 হয়, তাহলে রেখাংশ ED এর দৈর্ঘ্য ()",
+    "agreement": 0.8103
+  },
+  {
+    "id": "scienceqa_00391",
+    "english": "Select the mammal below.",
+    "indictrans2": "নীচের স্তন্যপায়ী প্রাণীটি নির্বাচন করুন।",
+    "secondary": "নিচের স্তন্যপায়ীটি নির্বাচন করুন।",
+    "agreement": 0.95
+  },
+  {
+    "id": "mathvista_194",
+    "english": "On average, how many people can commute on this vehicle?",
+    "indictrans2": "এই গাড়িতে গড়ে কতজন লোক যাতায়াত করতে পারে?",
+    "secondary": "গড়ে, এই যানবাহনে কতজন মানুষ যাতায়াত করতে পারে?",
+    "agreement": 0.64
+  },
+  {
+    "id": "mmmu_chemistry_0011",
+    "english": "Which of the following is the enantiomer of the compound shown below ? <image 1>",
+    "indictrans2": "নিচের কোনটি নীচের দেখানো যৌগের এনানটিওমার?",
+    "secondary": "নিম্নলিখিতগুলির মধ্যে কোনটি নীচে প্রদর্শিত যৌগটির এনান্টিওমার?",
+    "agreement": 0.7407
+  },
+  {
+    "id": "scienceqa_00483",
+    "english": "Select the organism in the same species as the Christmas tree worm.",
+    "indictrans2": "ক্রিসমাস ট্রি কৃমির মতো একই প্রজাতির জীব নির্বাচন করুন।",
+    "secondary": "ক্রিসমাস ট্রি ওয়ার্মের সাথে একই প্রজাতির জীব নির্বাচন করুন।",
+    "agreement": 0.7407
+  },
+  {
+    "id": "scienceqa_00048",
+    "english": "Which solution has a higher concentration of green particles?",
+    "indictrans2": "কোন দ্রবণে সবুজ কণার ঘনত্ব বেশি?",
+    "secondary": "কোন সমাধানে সবুজ কণার ঘনত্ব বেশি?",
+    "agreement": 0.8571
+  },
+  {
+    "id": "scienceqa_00332",
+    "english": "Which property do these three objects have in common?",
+    "indictrans2": "এই তিনটি বস্তুর s-এর মধ্যে কোন বৈশিষ্ট্যের মিল রয়েছে?",
+    "secondary": "এই তিনটি বস্তুর মধ্যে কোন সম্পত্তিটি সাধারণ?",
+    "agreement": 0.6333
+  },
+  {
+    "id": "mathvista_82",
+    "english": "A square is inscribed in a circle of area 18$\\pi$ square units. Find the length of a side of the square.",
+    "indictrans2": "Aবর্গক্ষেত্রটি 18$\\পাই $বর্গ ইউনিট আয়তনের একটি বৃত্তে খোদাই করা আছে। বর্গক্ষেত্রের একটি পাশের দৈর্ঘ্য খুঁজুন।",
+    "secondary": "একটি বর্গক্ষেত্র একটি বৃত্তের মধ্যে অঙ্কিত যার ক্ষেত্রফল 18$\\pi$ বর্গ একক। বর্গক্ষেত্রের একটি বাহুর দৈর্ঘ্য নির্ণয় করুন।",
+    "agreement": 0.5532
+  },
+  {
+    "id": "mathvista_461",
+    "english": "A perceptual audio codec is used to compress an audio signal. The codec groups every 4 barks into a subband and then allocates bits to different subbands according to the result of a spectrum analysis based on a psychoacoustic model. All samples in the same subband are quantized with the same quantizer, and the bit resolution of which is allocated by the codec. (The Bark scale is a psychoacoustical scale proposed by Eberhard Zwicker in 1961.) Fig. Q1a shows the frequency spectrum of a windowed segment of audio signal. The psychoacoustic model shown in Fig. Q1b is used in the audio codec to derive the masking threshold for the audio segment. How many potential maskers in Fig. Q1a?",
+    "indictrans2": "Aপার্সেপচুয়াল অডিও কোডেক একটি অডিও সিগন্যাল সংকুচিত করতে ব্যবহৃত হয়। কোডেক প্রতিটি 4বার্ককে একটি সাবব্যান্ডে গোষ্ঠীভুক্ত করে এবং তারপরে একটি সাইকোঅ্যাকোস্টিক মডেলের উপর ভিত্তি করে বর্ণালী বিশ্লেষণের ফলাফল অনুসারে বিভিন্ন সাবব্যান্ডে বিট বরাদ্দ করে। একই সাবব্যান্ডের সমস্ত নমুনা একই কোয়ান্টাইজার দিয়ে পরিমাপ করা হয় এবং যার বিট রেজোলিউশন কোডেক দ্বারা বরাদ্দ করা হয়। (বার্ক স্কেলটি 1961-এ এবারহার্ড জুকার দ্বারা প্রস্তাবিত একটি সাইকোঅ্যাকোস্টিকাল স্কেল।) চিত্র। কিউ1এ অডিও সিগন্যালের উইন্ডোযুক্ত বিভাগের ফ্রিকোয়েন্সি বর্ণালী দেখায়। চিত্রে দেখানো সাইকোঅ্যাকোস্টিক মডেল। কিউ1বি অডিও কোডেকে মাস্কিং থ্রেশহোল্ড পেতে ব্যবহৃত হয়। চিত্র 1-এ কতগুলি সম্ভাব্য অডিও মাস্কার?",
+    "secondary": "একটি পার্সেপচুয়াল অডিও কোডেক একটি অডিও সংকেত সংকুচিত করতে ব্যবহৃত হয়। কোডেকটি প্রতি 4 বার্ককে একটি সাবব্যান্ডে গ্রুপ করে এবং তারপর একটি সাইকোঅ্যাকোস্টিক মডেলের উপর ভিত্তি করে স্পেকট্রাম বিশ্লেষণের ফলাফলের অনুযায়ী বিভিন্ন সাবব্যান্ডে বিট বরাদ্দ করে। একই সাবব্যান্ডের সমস্ত নমুনা একই কোয়ান্টাইজার দিয়ে কোয়ান্টাইজ করা হয়, এবং এর বিট রেজোলিউশন কোডেক দ্বারা বরাদ্দ করা হয়। (বার্ক স্কেলটি একটি সাইকোঅ্যাকোস্টিক্যাল স্কেল যা 1961 সালে এবারহার্ড জুইকার দ্বারা প্রস্তাবিত হয়েছিল।) Fig. Q1a একটি উইন্ডো করা অডিও সংকেতের ফ্রিকোয়েন্সি স্পেকট্রাম দেখায়। Fig. Q1b তে দেখানো সাইকোঅ্যাকোস্টিক মডেলটি অডিও কোডেকের মধ্যে ব্যবহৃত হয় অডিও সেগমেন্টের জন্য মাস্কিং থ্রেশহ",
+    "agreement": 0.7705
+  },
+  {
+    "id": "mathvista_455",
+    "english": "If x = 32 and r = 18, what is the length of the arc shown in the figure above?",
+    "indictrans2": "যদি x = 32 এবং r = 18 হয়, তাহলে উপরের চিত্রে দেখানো বৃত্তের দৈর্ঘ্য কত হবে?",
+    "secondary": "যদি x = 32 এবং r = 18 হয়, তাহলে উপরের চিত্রে প্রদর্শিত আর্কের দৈর্ঘ্য কত?",
+    "agreement": 0.8333
+  },
+  {
+    "id": "scienceqa_00122",
+    "english": "Which material is this egg carton made of?",
+    "indictrans2": "এই ডিমের কার্টনটি কোন উপাদান দিয়ে তৈরি?",
+    "secondary": "এই ডিমের কার্টনটি কোন উপাদান দিয়ে তৈরি?",
+    "agreement": 1.0
+  },
+  {
+    "id": "scienceqa_00226",
+    "english": "Which of the following could Rose's test show?",
+    "indictrans2": "নিম্নলিখিত g-এর মধ্যে কোনটি রোজ's পরীক্ষা দেখাতে পারে?",
+    "secondary": "নিম্নলিখিত কোনটি রোজের পরীক্ষায় দেখা যেতে পারে?",
+    "agreement": 0.75
+  },
+  {
+    "id": "mathvista_303",
+    "english": "Is Lime Green less than Dim Gray?",
+    "indictrans2": "লাইম গ্রিন কি ডিম গ্রে-র চেয়ে কম?",
+    "secondary": "লাইম গ্রিন কি ডিম গ্রে থেকে কম?",
+    "agreement": 0.7368
+  },
+  {
+    "id": "scienceqa_00268",
+    "english": "During this time, thermal energy was transferred from () to ().",
+    "indictrans2": "এই সময়ে, তাপীয় শক্তি () থেকে ()-এ স্থানান্তরিত হয়।",
+    "secondary": "এই সময়ের মধ্যে, তাপীয় শক্তি () থেকে () তে স্থানান্তরিত হয়েছিল।",
+    "agreement": 0.8571
+  },
+  {
+    "id": "mmmu_mechanical_engineering_0015",
+    "english": "A block weighing W = 5.0 N drops inside a cylinder from a height h = 200 mm onto a spring having stiffness k = 90 N/m. Determine the maximum shortening of the spring due to the impact.<image 1>",
+    "indictrans2": "Aব্লকের ওজন W=5.0উচ্চতা থেকে একটি সিলিন্ডারের ভিতরে নেমে আসে =200mmএকটি স্প্রিংয়ের উপর যার কঠোরতা k =90W0 @// W1 @। প্রভাবের কারণে স্প্রিংয়ের সর্বাধিক সংক্ষিপ্ততা নির্ধারণ করুন।",
+    "secondary": "একটি ব্লক যার ওজন W = 5.0 N একটি সিলিন্ডারের ভিতরে h = 200 mm উচ্চতা থেকে একটি স্প্রিং এর উপর পড়ে যার স্থিতিস্থাপকতা k = 90 N/m। আঘাতের কারণে স্প্রিং এর সর্বাধিক সংকোচন নির্ধারণ করুন।",
+    "agreement": 0.82
+  },
+  {
+    "id": "mathvista_16",
+    "english": "How many items sold less than 5 units in at least one store?",
+    "indictrans2": "কমপক্ষে একটি দোকানে কতগুলি জিনিস 5ইউনিটের কম বিক্রি হয়েছে?",
+    "secondary": "কতগুলি আইটেম অন্তত একটি দোকানে 5 ইউনিটের কম বিক্রি হয়েছে?",
+    "agreement": 0.8125
+  },
+  {
+    "id": "scienceqa_00548",
+    "english": "During this time, thermal energy was transferred from () to ().",
+    "indictrans2": "এই সময়ে, তাপীয় শক্তি () থেকে ()-এ স্থানান্তরিত হয়।",
+    "secondary": "এই সময়ের মধ্যে, তাপীয় শক্তি () থেকে () তে স্থানান্তরিত হয়েছিল।",
+    "agreement": 0.8571
+  },
+  {
+    "id": "mathvista_137",
+    "english": "Is the function (f: R to R) injective?",
+    "indictrans2": "ফাংশনটি কি (f: R থেকে R) ইনজেকটিভ?",
+    "secondary": "ফাংশনটি (f: R থেকে R) ইনজেকটিভ কি?",
+    "agreement": 1.0
+  },
+  {
+    "id": "scienceqa_00485",
+    "english": "Which month has the lowest average precipitation in London?",
+    "indictrans2": "কোন মাসে লন্ডনে সর্বনিম্ন গড় বৃষ্টিপাত হয়?",
+    "secondary": "লন্ডনে কোন মাসে গড় বৃষ্টিপাত সবচেয়ে কম?",
+    "agreement": 0.88
+  },
+  {
+    "id": "mmmu_math_0016",
+    "english": "A man at a point P on the shore of a circular lake of radius 1 mile wants to reach the point Q on the shore diametrically opposite P (Fig. 16-5). He can row 1.5 miles per hour and walk 3 miles per hour. At what angle $\\theta $ ($0<\\theta < \\pi /2$) to the diameter PQ should he row in order to minimize the time required to reach Q? <image 1>",
+    "indictrans2": "Aমানুষ ব্যাসার্ধের একটি বৃত্তাকার হ্রদের তীরে একটি বিন্দু P-তে পৌঁছতে চায় (চিত্র 16-5)। সে প্রতি ঘন্টায় 1.5মাইল ঘুরতে পারে এবং 3মাইল প্রতি ঘন্টায় হাঁটতে পারে। কোন কোণে $\\theta $($0<\\theta <\\pi/2$) ব্যাসের PQ-তে পৌঁছতে প্রয়োজনীয় সময় কমিয়ে আনতে তাকে সারিবদ্ধ করা উচিত?",
+    "secondary": "একজন ব্যক্তি একটি বৃত্তাকার হ্রদের তীরে P বিন্দুতে অবস্থান করছে, যার ব্যাসার্ধ 1 মাইল, এবং সে P বিন্দুর বিপরীত দিকে তীরে Q বিন্দুতে পৌঁছাতে চায় (চিত্র 16-5)। সে প্রতি ঘণ্টায় 1.5 মাইল বেগে নৌকা চালাতে পারে এবং প্রতি ঘণ্টায় 3 মাইল বেগে হাঁটতে পারে। Q বিন্দুতে পৌঁছানোর জন্য প্রয়োজনীয় সময় কমানোর জন্য তাকে ব্যাসার্ধ PQ এর সাথে কোন $\\theta $ ($0<\\theta < \\pi /2$) কোণে নৌকা চালানো উচিত?",
+    "agreement": 0.8939
+  },
+  {
+    "id": "scienceqa_00242",
+    "english": "Which property do these four objects have in common?",
+    "indictrans2": "এই চারটি বস্তুর s-এর মধ্যে কোন বৈশিষ্ট্যের মিল রয়েছে?",
+    "secondary": "এই চারটি বস্তু কোন বৈশিষ্ট্যটি সাধারণভাবে ভাগ করে?",
+    "agreement": 0.7188
+  },
+  {
+    "id": "scienceqa_00598",
+    "english": "Which month has the lowest average precipitation in London?",
+    "indictrans2": "কোন মাসে লন্ডনে সর্বনিম্ন গড় বৃষ্টিপাত হয়?",
+    "secondary": "লন্ডনে কোন মাসে গড় বৃষ্টিপাত সবচেয়ে কম?",
+    "agreement": 0.88
+  },
+  {
+    "id": "mathvista_323",
+    "english": "Craig just downloaded the new game Gem Excavator on his phone. In the first level, Craig gains points for each green gem he finds. However, he loses points for each red gem he finds. The table shows how the gems affect Craig's points. Which color gem affects Craig's points less?'",
+    "indictrans2": "ক্রেইগ সবেমাত্র তার ফোনে নতুন গেম জেম এক্সক্যাভেটর ডাউনলোড করেছে। প্রথম স্তরে ক্রেইগ প্রতিটি সবুজ রত্ন খুঁজে পাওয়ার জন্য পয়েন্ট পায়। তবে, সে প্রতিটি লাল রত্ন খুঁজে পাওয়ার জন্য পয়েন্ট হারায়। টেবিলটি দেখায় যে রত্নগুলি ক্রেইগকে কীভাবে প্রভাবিত করে। কোন রঙের রত্ন ক্রেইগকে প্রভাবিত করে'sপয়েন্ট কম?'",
+    "secondary": "ক্রেগ তার ফোনে নতুন গেম জেম এক্সক্যাভেটর ডাউনলোড করেছে। প্রথম স্তরে, ক্রেগ প্রতিটি সবুজ রত্নের জন্য পয়েন্ট অর্জন করে যা সে খুঁজে পায়। তবে, সে প্রতিটি লাল রত্নের জন্য পয়েন্ট হারায় যা সে খুঁজে পায়। টেবিলটি দেখায় কিভাবে রত্নগুলি ক্রেগের পয়েন্টকে প্রভাবিত করে। কোন রঙের রত্ন ক্রেগের পয়েন্টকে কম প্রভাবিত করে?",
+    "agreement": 0.8571
+  },
+  {
+    "id": "scienceqa_00627",
+    "english": "Which of the following could Ernest's test show?",
+    "indictrans2": "নিচের কোনটি আর্নেস্ট'sপরীক্ষা করতে পারে?",
+    "secondary": "নিম্নলিখিত কোনটি আর্নেস্টের পরীক্ষায় দেখা যেতে পারে?",
+    "agreement": 0.6538
+  },
+  {
+    "id": "scienceqa_00414",
+    "english": "In this food web, which organism contains matter that eventually moves to the earthworm?",
+    "indictrans2": "এই খাদ্য জালে, কোন জীবের মধ্যে এমন পদার্থ রয়েছে যা শেষ পর্যন্ত কেঁচোর কাছে চলে যায়?",
+    "secondary": "এই খাদ্য জালে, কোন জীবটি এমন পদার্থ ধারণ করে যা শেষ পর্যন্ত কেঁচোর কাছে পৌঁছায়?",
+    "agreement": 0.8824
+  },
+  {
+    "id": "mathvista_405",
+    "english": "What is the age gap between these two people in image?",
+    "indictrans2": "ছবিতে এই দুই ব্যক্তির মধ্যে বয়সের ব্যবধান কত?",
+    "secondary": "এই ছবিতে এই দুই ব্যক্তির মধ্যে বয়সের পার্থক্য কত?",
+    "agreement": 0.7917
+  },
+  {
+    "id": "mathvista_134",
+    "english": "People can use the engineering-design process to develop solutions to problems. One step in the process is testing if a potential solution meets the requirements of the design.\nThe passage below describes how the engineering-design process was used to test a solution to a problem. Read the passage. Then answer the question below.\n\nCooper was a landscape architect who was hired to design a new city park. The city council wanted the park to have space for outdoor concerts and to have at least 20% of the park shaded by trees. Cooper thought the concert area should be at least 150 meters from the road so traffic noise didn't interrupt the music. He developed three possible designs for the park with the concert area in a different location in each design. Then, he tested each design by measuring the distance between the road and the concert area.\nFigure: studying an architect's design. Which of the following could Cooper's test show?",
+    "indictrans2": "লোকেরা সমস্যাগুলির সমাধানের জন্য ইঞ্জিনিয়ারিং -design প্রক্রিয়াটি ব্যবহার করতে পারে। এই প্রক্রিয়ার একটি ধাপ হল সম্ভাব্য সমাধানটি নকশার প্রয়োজনীয়তা পূরণ করে কিনা তা পরীক্ষা করা। নীচের অনুচ্ছেদটি বর্ণনা করে যে কোনও সমস্যার সমাধান পরীক্ষা করার জন্য ইঞ্জিনিয়ারিং -design প্রক্রিয়াটি কীভাবে ব্যবহার করা হয়েছিল। অনুচ্ছেদটি পড়ুন। তারপরে নীচের প্রশ্নের উত্তর দিন। কুপার একজন ল্যান্ডস্কেপ আর্কিটেক্ট ছিলেন যাকে একটি নতুন সিটি পার্কের নকশা করার জন্য ভাড়া করা হয়েছিল। সিটি কাউন্সিল চেয়েছিল যে পার্কটিতে বহিরঙ্গন কনসার্টের জন্য জায়গা থাকবে এবং পার্কের কমপক্ষে 20% গাছ দ্বারা ছায়াযুক্ত থাকবে। কুপার ভেবেছিলেন যে কনসার্টের এলাকাটি রাস্তা থেকে কমপক্ষে 150মিটার দূরে হওয়া উচিত যাতে ট্র্যাফিকের শব্দ সংগীতে বাধা না দেয়। তিনি পার্কের জন্য তিনটি সম্ভাব্য নকশা তৈরি করেছিলেন যার প্রতিটি জায়গায় কনসার্টের এলাকা রয়েছে। তারপর তিনি প্রতিটি নকশা পরিমাপ করে রাস্তার মধ্যে দূরত্ব পরিমাপ করতে পারেন।",
+    "secondary": "মানুষ সমস্যা সমাধানের জন্য প্রকৌশল-নকশা প্রক্রিয়া ব্যবহার করতে পারে। প্রক্রিয়ার একটি ধাপ হল সম্ভাব্য সমাধানটি নকশার প্রয়োজনীয়তা পূরণ করে কিনা তা পরীক্ষা করা। নিচের অংশটি বর্ণনা করে কিভাবে প্রকৌশল-নকশা প্রক্রিয়া একটি সমস্যার সমাধান পরীক্ষা করতে ব্যবহৃত হয়েছিল। অংশটি পড়ুন। তারপর নিচের প্রশ্নের উত্তর দিন।\n\nকুপার একজন ল্যান্ডস্কেপ আর্কিটেক্ট ছিলেন যিনি একটি নতুন শহরের পার্ক ডিজাইন করার জন্য নিয়োগ পেয়েছিলেন। সিটি কাউন্সিল চেয়েছিল পার্কে আউটডোর কনসার্টের জন্য জায়গা থাকুক এবং পার্কের অন্তত 20% গাছের ছায়ায় থাকুক। কুপার মনে করতেন কনসার্ট এলাকা রাস্তা থেকে অন্তত 150 মিটার দূরে থাকা উচিত যাতে ট্রাফিকের শব্দ সঙ্গীতকে ব্যাহত না করে। তিনি পার্কের জন্য তিনটি সম্ভাব্য নকশা তৈরি করেছিলেন যেখানে প্রতিটি নকশায় কনসার্ট এলাকা ভিন্ন স্থ",
+    "agreement": 0.8065
+  },
+  {
+    "id": "mathvista_352",
+    "english": "How many people will fit in the smaller vehicle?",
+    "indictrans2": "ছোট গাড়িতে কতজন লোক বসবে?",
+    "secondary": "ছোট যানবাহনে কতজন মানুষ বসবে?",
+    "agreement": 0.5652
+  },
+  {
+    "id": "scienceqa_00073",
+    "english": "Which type of relationship is formed when a rat tapeworm attaches itself to a rat's intestine?",
+    "indictrans2": "কোন ধরনের সম্পর্ক তৈরি হয় যখন একটি ইঁদুর টেপওয়ার্ম নিজেকে একটি ইঁদুরের সাথে সংযুক্ত করে'sঅন্ত্র?",
+    "secondary": "কোন ধরণের সম্পর্ক গঠিত হয় যখন একটি ইঁদুর ফিতা কৃমি একটি ইঁদুরের অন্ত্রে সংযুক্ত হয়?",
+    "agreement": 0.7105
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "mmmu_computer_science_0005",
+    "english": "You train a learning algorithm,and find that it has unacceptably high error on the test set.You plot the learning curve,and obtain the figure below.Is the algorithm suffering from high bias,high variance,or neither?<image 1>",
+    "indictrans2": "तुम्ही लर्निंग अल्गोरिदम प्रशिक्षित करता आणि तुम्हाला आढळते की चाचणी set.You मध्ये लर्निंग कर्वच्या रचनेत अस्वीकार्य उच्च त्रुटी आहे आणि उच्च पूर्वग्रह, उच्च भिन्नता किंवा दोन्हीमुळे ग्रस्त असलेल्या अल्गोरिदमची आकृती below.Is मिळवा?",
+    "secondary": "आपण एक शिक्षण अल्गोरिदम प्रशिक्षित करता आणि आढळते की चाचणी संचावर त्याची त्रुटी अस्वीकार्यपणे जास्त आहे. आपण शिक्षण वक्र प्लॉट करता आणि खालील आकृती प्राप्त करता. अल्गोरिदम उच्च पूर्वग्रह, उच्च विचलन, किंवा दोन्हीपैकी कोणत्याही समस्येने ग्रस्त आहे का?",
+    "agreement": 0.6852
+  },
+  {
+    "id": "mathvista_87",
+    "english": "Look at the table. Then answer the question. At a price of $790, is there a shortage or a surplus?'",
+    "indictrans2": "टेबल पहा. मग प्रश्नाचे उत्तर द्या. $790च्या किंमतीवर, कमतरता आहे की अतिरिक्त? '",
+    "secondary": "तक्त्याकडे पहा. मग प्रश्नाचे उत्तर द्या. $790 च्या किमतीवर, तुटवडा आहे का की अधिशेष?",
+    "agreement": 0.7895
+  },
+  {
+    "id": "scienceqa_00613",
+    "english": "Is the following statement about our solar system true or false?\nOf the four largest planets, three are made mainly of gas.",
+    "indictrans2": "आपल्या सौरमालेबद्दलचे खालील विधान खरे आहे की खोटे? चार सर्वात मोठ्या ग्रहांपैकी तीन प्रामुख्याने वायूचे बनलेले आहेत.",
+    "secondary": "आपल्या सौरमालेबद्दल खालील विधान खरे की खोटे?\nचार सर्वात मोठ्या ग्रहांपैकी तीन प्रामुख्याने वायूचे बनलेले आहेत.",
+    "agreement": 0.9714
+  },
+  {
+    "id": "scienceqa_00236",
+    "english": "Will these magnets attract or repel each other?",
+    "indictrans2": "हे चुंबक एकमेकांना आकर्षित करतील की दूर करतील?",
+    "secondary": "हे चुंबक एकमेकांना आकर्षित करतील की प्रतिकर्षित करतील?",
+    "agreement": 0.875
+  },
+  {
+    "id": "scienceqa_00620",
+    "english": "Are the bubbles in soda a solid, a liquid, or a gas?",
+    "indictrans2": "सोडामधील बुडबुडे घन, द्रव किंवा वायू आहेत का?",
+    "secondary": "सोडामधील बुडबुडे घन, द्रव किंवा वायू आहेत का?",
+    "agreement": 1.0
+  },
+  {
+    "id": "mathvista_148",
+    "english": "Which leaf shape has the smallest base?",
+    "indictrans2": "कोणत्या पानाच्या आकाराला सर्वात लहान पाया असतो?",
+    "secondary": "कोणत्या पानाच्या आकाराचा तळ सर्वात लहान आहे?",
+    "agreement": 0.8571
+  },
+  {
+    "id": "mathvista_153",
+    "english": "What would be impacted by an increase in owls?",
+    "indictrans2": "घुबडांच्या वाढीचा काय परिणाम होईल?",
+    "secondary": "घुबडांच्या संख्येत वाढ झाल्याने कोणत्या गोष्टींवर परिणाम होईल?",
+    "agreement": 0.7273
+  },
+  {
+    "id": "scienceqa_00445",
+    "english": "Is the following statement about our solar system true or false?\nThe smallest planet is made mainly of rock.",
+    "indictrans2": "आपल्या सौरमालेबद्दलचे खालील विधान खरे आहे की खोटे? सर्वात लहान ग्रह प्रामुख्याने खडकाचा बनलेला आहे.",
+    "secondary": "आपल्या सौरमालेबद्दल खालील विधान खरे की खोटे?\nसर्वात लहान ग्रह मुख्यतः खडकाचा बनलेला आहे.",
+    "agreement": 0.9394
+  },
+  {
+    "id": "scienceqa_00139",
+    "english": "Select the organism in the same genus as the North American beaver.",
+    "indictrans2": "उत्तर अमेरिकन बीव्हरसारख्याच वंशातील जीव निवडा.",
+    "secondary": "उत्तर अमेरिकन बीव्हरच्या समान वंशातील जीव निवडा.",
+    "agreement": 0.9615
+  },
+  {
+    "id": "mmmu_mechanical_engineering_0019",
+    "english": "A machine frame is made of steel having Sy = 400 MPa and Ssy = 250 MPa. When loaded in a test fixture, the stresses were found to vary linearly with load. Two points on the surface were found to be most critical. With a 4-kN test load, stresses at these points were: point a, $\\sigma $1 = 200 MPa,$\\sigma $2 = 100 MPa; point b, $\\sigma $1 = 150 MPa, $\\sigma $2 = -100 MPa. Compute the test load at which the frame will experience initial yielding according to the maximum-normal-stress theory.<image 1>",
+    "indictrans2": "Aमशीन फ्रेम स्टीलची बनलेली असते, ज्यामध्ये साय @<@kN0> @400एमपीए आणि साय =<@35> @एमपीए चाचणी संचामध्ये लोड केले जाते, तेव्हा ताण लोडसह रेषात्मकपणे बदलत असल्याचे आढळून आले. पृष्ठभागावरील दोन बिंदू सर्वात गंभीर असल्याचे आढळून आले. @<@kN7> @@<@30> @@kN चाचणी भारासह, या बिंदूंवरील ताण असे होतेः पॉइंट ए, $\\सिग्मा $@<@31> @@<@kN8> @@<@kN2> @एमपीए, $\\सिग्मा $@<@kN0> @एमपीए, एमपीए, एमपीए, एमपीए, एमपीए, एमपीए, एमपीए, एमपीए, एमपीए, एमपीए",
+    "secondary": "एका मशीन फ्रेमची निर्मिती स्टीलपासून केली जाते ज्याचे Sy = 400 MPa आणि Ssy = 250 MPa आहे. जेव्हा एका चाचणी फिक्स्चरमध्ये लोड केले जाते, तेव्हा ताण लोडसह रेषीयरीत्या बदलतात असे आढळले. पृष्ठभागावरील दोन बिंदू सर्वात गंभीर आढळले. 4-kN चाचणी लोडसह, या बिंदूंवरील ताण असे होते: बिंदू a, $\\sigma $1 = 200 MPa, $\\sigma $2 = 100 MPa; बिंदू b, $\\sigma $1 = 150 MPa, $\\sigma $2 = -100 MPa. कमाल-सामान्य-ताण सिद्धांतानुसार फ्रेमला प्रारंभिक yielding अनुभवेल अशा चाचणी लोडची गणना करा.",
+    "agreement": 0.65
+  },
+  {
+    "id": "scienceqa_00260",
+    "english": "Which animal is also adapted to be camouflaged in a sandy desert?",
+    "indictrans2": "कोणत्या प्राण्याला वालुकामय वाळवंटात लपवण्यासाठी देखील अनुकूल केले जाते?",
+    "secondary": "कोणते प्राणी वाळवंटी वाळूमध्ये लपण्यासाठी अनुकूलित आहेत?",
+    "agreement": 0.7812
+  },
+  {
+    "id": "mathvista_204",
+    "english": "از سمت راست تصویر درب دوم چند شیشه بدون رنگ داره؟",
+    "indictrans2": "आजचे शहर हे दोन दिवस चालते.",
+    "secondary": "उजव्या बाजूने दुसऱ्या दरवाज्यात किती रंगहीन काच आहेत?",
+    "agreement": 0.4667
+  },
+  {
+    "id": "mathvista_319",
+    "english": "Would most of the ground cover be considered weeds?",
+    "indictrans2": "बहुतेक जमिनीचे आच्छादन तण मानले जाईल का?",
+    "secondary": "बहुतेक जमिनीवरील झाडे गवत मानली जातील का?",
+    "agreement": 0.5556
+  },
+  {
+    "id": "scienceqa_00224",
+    "english": "Will these magnets attract or repel each other?",
+    "indictrans2": "हे चुंबक एकमेकांना आकर्षित करतील की दूर करतील?",
+    "secondary": "हे चुंबक एकमेकांना आकर्षित करतील की प्रतिकर्षित करतील?",
+    "agreement": 0.875
+  },
+  {
+    "id": "mmmu_math_0003",
+    "english": "Which option is the equation of the graph. <image 1>",
+    "indictrans2": "आलेखचे समीकरण कोणता पर्याय आहे. <प्रतिमा 1>",
+    "secondary": "कोणता पर्याय ग्राफचा समीकरण आहे.",
+    "agreement": 0.6923
+  },
+  {
+    "id": "scienceqa_00351",
+    "english": "What is the expected ratio of offspring with black fur to offspring with brown fur? Choose the most likely ratio.",
+    "indictrans2": "काळ्या फर असलेल्या संततीचे आणि तपकिरी फर असलेल्या संततीचे अपेक्षित गुणोत्तर किती आहे? सर्वात संभाव्य गुणोत्तर निवडा.",
+    "secondary": "काळ्या फर असलेल्या संततीचा तपकिरी फर असलेल्या संततीशी अपेक्षित गुणोत्तर काय आहे? सर्वात संभाव्य गुणोत्तर निवडा.",
+    "agreement": 0.9688
+  },
+  {
+    "id": "scienceqa_00049",
+    "english": "Which is this organism's scientific name?",
+    "indictrans2": "या जीवाचे'sवैज्ञानिक नाव काय आहे?",
+    "secondary": "या जीवाचे शास्त्रीय नाव काय आहे?",
+    "agreement": 0.6087
+  },
+  {
+    "id": "mathvista_254",
+    "english": "Is the number of big objects that are in front of the metal fighter less than the number of things that are behind the big metallic bus?",
+    "indictrans2": "धातूच्या लढाऊ विमानासमोर असलेल्या मोठ्या वस्तूंची संख्या मोठ्या धातूच्या बसच्या मागे असलेल्या वस्तूंच्या संख्येपेक्षा कमी आहे का?",
+    "secondary": "धातूच्या फायटरच्या समोर असलेल्या मोठ्या वस्तूंची संख्या मोठ्या धातूच्या बसच्या मागे असलेल्या वस्तूंच्या संख्येपेक्षा कमी आहे का?",
+    "agreement": 0.8235
+  },
+  {
+    "id": "mmmu_mechanical_engineering_0001",
+    "english": "In the following figure, select the correct view ().<image 1>",
+    "indictrans2": "खालील आकृतीमध्ये, योग्य दृश्य () निवडा.",
+    "secondary": "खालील आकृतीत, योग्य दृश्य निवडा ().",
+    "agreement": 0.8846
+  },
+  {
+    "id": "scienceqa_00248",
+    "english": "Will these magnets attract or repel each other?",
+    "indictrans2": "हे चुंबक एकमेकांना आकर्षित करतील की दूर करतील?",
+    "secondary": "हे चुंबक एकमेकांना आकर्षित करतील की प्रतिकर्षित करतील?",
+    "agreement": 0.875
+  },
+  {
+    "id": "scienceqa_00607",
+    "english": "What is the probability that a horse produced by this cross will have a reddish-brown coat?",
+    "indictrans2": "या वधस्तंभाने तयार केलेल्या घोड्यावर लाल रंगाचा -brown कोट असण्याची संभाव्यता किती आहे?",
+    "secondary": "या संकरातून तयार झालेल्या घोड्याच्या लालसर तपकिरी रंगाच्या कोटची शक्यता किती आहे?",
+    "agreement": 0.6053
+  },
+  {
+    "id": "scienceqa_00569",
+    "english": "Which of the following could Stanley's test show?",
+    "indictrans2": "खालीलपैकी कोणते स्टेनली'sचाचणी दर्शवू शकते?",
+    "secondary": "खालीलपैकी कोणते स्टॅन्लीच्या चाचणीत दिसू शकते?",
+    "agreement": 0.75
+  },
+  {
+    "id": "scienceqa_00498",
+    "english": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "indictrans2": "प्रत्येक जोडीतील चुंबकांमधील चुंबकीय शक्तीचा विचार करा. खालीलपैकी कोणती विधाने खरी आहेत?",
+    "secondary": "प्रत्येक जोडीतल्या चुंबकांमधील चुंबकीय बलाबद्दल विचार करा. खालील विधानांपैकी कोणते खरे आहे?",
+    "agreement": 0.9375
+  },
+  {
+    "id": "mathvista_243",
+    "english": "چند عدد شیرینی مثلثی شکل در جعبه است؟",
+    "indictrans2": "चांद अदद शिरीन उदाहरण म्हणून शकल दारे जाबाह हे खरे आहे",
+    "secondary": "ज्या बॉक्समध्ये त्रिकोणी आकाराचे काही गोड पदार्थ आहेत, त्यात किती आहेत?",
+    "agreement": 0.4444
+  },
+  {
+    "id": "scienceqa_00533",
+    "english": "Which property do these two objects have in common?",
+    "indictrans2": "या दोन वस्तूंमध्ये कोणता गुणधर्म सामाईक आहे?",
+    "secondary": "या दोन वस्तूंमध्ये कोणते गुणधर्म समान आहेत?",
+    "agreement": 0.9583
+  },
+  {
+    "id": "mathvista_373",
+    "english": "As shown in the figure, in the quadrilateral ABCD, ∠BAD = 120.0, ∠B = ∠D = 90.0, if you find a point M on BC and CD respectively, so that the perimeter of △AMN is the smallest, then the degree of ∠AMN + ∠ANM is ()",
+    "indictrans2": "आकृतीमध्ये दाखवल्याप्रमाणे, चतुर्भुज ए. बी. सी. डी. मध्ये, ए. बी. सी. डी., ए. बी. सी. डी., ए. बी. सी. डी., ए. बी. सी. डी., ए. बी. सी. डी., ए. बी. सी. डी., ए. बी. सी. डी., ए. बी. सी. डी., ए. बी. सी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी. डी",
+    "secondary": "जसे आकृतीत दाखवले आहे, चतुर्भुज ABCD मध्ये, ∠BAD = 120.0, ∠B = ∠D = 90.0, जर तुम्ही BC आणि CD वर अनुक्रमे M बिंदू शोधला, ज्यामुळे △AMN ची परिघ लहान असेल, तर ∠AMN + ∠ANM चा कोन () आहे.",
+    "agreement": 0.4909
+  },
+  {
+    "id": "scienceqa_00010",
+    "english": "Which better describes the Daintree rain forest ecosystem?",
+    "indictrans2": "डेंट्री पर्जन्यवन परिसंस्थेचे कोणते अधिक चांगले वर्णन करते?",
+    "secondary": "डेंट्री रेन फॉरेस्ट परिसंस्था अधिक चांगल्या प्रकारे कशी वर्णन केली जाऊ शकते?",
+    "agreement": 0.8387
+  },
+  {
+    "id": "scienceqa_00466",
+    "english": "Which animal's feet are also adapted for grabbing prey?",
+    "indictrans2": "कोणता प्राणी'sपायदेखील शिकार पकडण्यासाठी अनुकूल आहे?",
+    "secondary": "कोणत्या प्राण्याचे पाय शिकार पकडण्यासाठी देखील अनुकूलित आहेत?",
+    "agreement": 0.9
+  },
+  {
+    "id": "scienceqa_00431",
+    "english": "Is shampoo a mineral?",
+    "indictrans2": "शॅम्पू हे खनिज आहे का?",
+    "secondary": "शॅम्पू खनिज आहे का?",
+    "agreement": 1.0
+  },
+  {
+    "id": "mathvista_447",
+    "english": "Does Midnight Blue intersect Purple?",
+    "indictrans2": "मिडनाईट ब्लू जांभळ्या रंगाला छेदते का?",
+    "secondary": "मिडनाइट ब्लू जांभळ्याशी छेदतो का?",
+    "agreement": 0.7586
+  },
+  {
+    "id": "scienceqa_00077",
+    "english": "Is marble a mineral or a rock?",
+    "indictrans2": "संगमरवर हे खनिज आहे की खडक?",
+    "secondary": "मार्बल हा खनिज आहे की खडक?",
+    "agreement": 0.6364
+  },
+  {
+    "id": "mmmu_architecture_and_engineering_0001",
+    "english": "Compare the scales of photography for the area recorded and the strip widths given by cameras A and B at the same flying heights.<image 1>How many photographs would be taken by the camera A in covering a strip 16 km long at a flying height of 1350 m? The longitudinal overlap is 60%.",
+    "indictrans2": "छायाचित्रणाच्या मोजमापाची तुलना नोंदवलेल्या क्षेत्रासाठी आणि त्याच उडत्या उंचीवर Aआणि Bकॅमेऱ्यांनी दिलेल्या पट्टीच्या रुंदीशी करा.",
+    "secondary": "फोटोग्राफीच्या स्केलची तुलना करा क्षेत्रासाठी नोंदवलेले आणि पट्ट्यांची रुंदी कॅमेरे A आणि B द्वारे दिलेली समान उड्डाण उंचीवर.<image 1>कॅमेरा A द्वारे 1350 मीटर उड्डाण उंचीवर 16 किमी लांब पट्टा कव्हर करताना किती छायाचित्रे घेतली जातील? अनुलंब ओव्हरलॅप 60% आहे.",
+    "agreement": 0.5965
+  },
+  {
+    "id": "scienceqa_00206",
+    "english": "Will these magnets attract or repel each other?",
+    "indictrans2": "हे चुंबक एकमेकांना आकर्षित करतील की दूर करतील?",
+    "secondary": "हे चुंबक एकमेकांना आकर्षित करतील की प्रतिकर्षण करतील?",
+    "agreement": 0.84
+  },
+  {
+    "id": "scienceqa_00097",
+    "english": "Identify the question that Robert's experiment can best answer.",
+    "indictrans2": "ज्या प्रश्नाचे रॉबर्ट'sप्रयोग सर्वोत्तम उत्तर देऊ शकतो तो प्रश्न ओळखा.",
+    "secondary": "रॉबर्टच्या प्रयोगाने उत्तम उत्तर देऊ शकणारा प्रश्न ओळखा.",
+    "agreement": 0.8065
+  },
+  {
+    "id": "mathvista_143",
+    "english": "As shown in the figure, in the parallelogram ABCD, CE bisects ∠BCD and it intersects the AD edge at point E, and DE = 3.0, then the length of AB is ()",
+    "indictrans2": "आकृतीमध्ये दर्शविल्याप्रमाणे, समांतर चतुर्भुज ए. बी. सी. डी. मध्ये, सी. ई. ए. एन. टी. बी. सी. डी. ला द्विभाजित करते आणि ते ए. डी. च्या काठाला ई बिंदूवर छेदते आणि डी. ई. =3.0, तर ए. बी. ची लांबी () आहे.",
+    "secondary": "आकृतीत दाखवल्याप्रमाणे, समांतर चतुर्भुज ABCD मध्ये, CE ∠BCD ला समद्विभाजित करते आणि ते AD काठावर बिंदू E वर छेदते, आणि DE = 3.0, तर AB ची लांबी () आहे.",
+    "agreement": 0.74
+  },
+  {
+    "id": "mathvista_299",
+    "english": "What is the age gap between the center and the rightmost person?",
+    "indictrans2": "केंद्रस्थानी असलेल्या आणि सर्वात उजव्या बाजूला असलेल्या व्यक्तीमध्ये वयाचे अंतर किती आहे?",
+    "secondary": "केंद्रातील आणि सर्वात उजव्या व्यक्तीमधील वयातील अंतर किती आहे?",
+    "agreement": 0.8276
+  },
+  {
+    "id": "mathvista_272",
+    "english": "What time does the clock show?",
+    "indictrans2": "घड्याळ किती वाजता दिसते?",
+    "secondary": "घड्याळ कोणता वेळ दाखवत आहे?",
+    "agreement": 0.5909
+  },
+  {
+    "id": "mathvista_82",
+    "english": "A square is inscribed in a circle of area 18$\\pi$ square units. Find the length of a side of the square.",
+    "indictrans2": "Aचौरस हे 18$\\पाई $चौरस एककांच्या क्षेत्रफळाच्या वर्तुळात कोरलेले आहे. चौरसाच्या एका बाजूची लांबी शोधा.",
+    "secondary": "18π चौरस युनिट क्षेत्रफळाच्या वर्तुळात एक चौरस अंतर्भूत आहे. चौरसाच्या एका बाजूची लांबी शोधा.",
+    "agreement": 0.7381
+  },
+  {
+    "id": "mathvista_403",
+    "english": "Find TX if $E X=24$ and $D E=7$",
+    "indictrans2": "$E X = 24 $आणि $D E = 7 $असल्यास TX शोधा.",
+    "secondary": "जर $E X=24$ आणि $D E=7$ असेल तर TX शोधा.",
+    "agreement": 0.7778
+  },
+  {
+    "id": "mathvista_28",
+    "english": "$\\overline{AB}$ is a diameter, $AC=8$ inches, and $BC=15$ inches. Find the radius of the circle.",
+    "indictrans2": "$\\Overline {AB} $हा व्यास आहे, $AC =8$इंच आणि $BC =15$इंच. वर्तुळाची त्रिज्या शोधा.",
+    "secondary": "$\\overline{AB}$ हा व्यास आहे, $AC=8$ इंच, आणि $BC=15$ इंच. वर्तुळाचा त्रिज्या शोधा.",
+    "agreement": 0.9318
+  },
+  {
+    "id": "scienceqa_00318",
+    "english": "Which property do these three objects have in common?",
+    "indictrans2": "या तीन वस्तूंमध्ये कोणता गुणधर्म सामाईक आहे?",
+    "secondary": "या तीन वस्तूंमध्ये कोणते गुणधर्म समान आहेत?",
+    "agreement": 0.9583
+  },
+  {
+    "id": "scienceqa_00269",
+    "english": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "indictrans2": "प्रत्येक जोडीतील चुंबकांमधील चुंबकीय शक्तीचा विचार करा. खालीलपैकी कोणती विधाने खरी आहेत?",
+    "secondary": "प्रत्येक जोडीत चुंबकांमधील चुंबकीय बलाबद्दल विचार करा. खालीलपैकी कोणते विधान खरे आहे?",
+    "agreement": 0.9375
+  },
+  {
+    "id": "mathvista_278",
+    "english": "Among the following objects, which one has the best PSNR score?",
+    "indictrans2": "खालीलपैकी कोणत्या वस्तूला सर्वोत्तम पी. एस. एन. आर. गुण आहेत?",
+    "secondary": "खालील वस्तूंमध्ये, कोणत्या वस्तूचा PSNR स्कोअर सर्वोत्तम आहे?",
+    "agreement": 0.5556
+  },
+  {
+    "id": "mathvista_266",
+    "english": "Which has the most uneven shape?",
+    "indictrans2": "कोणत्याचा आकार सर्वात असमान आहे?",
+    "secondary": "कोणता आकार सर्वात असमान आहे?",
+    "agreement": 0.8947
+  },
+  {
+    "id": "mathvista_12",
+    "english": "Are there fewer metallic fighters than rubber objects?",
+    "indictrans2": "रबरच्या वस्तूंपेक्षा कमी धातूचे लढवय्ये आहेत का?",
+    "secondary": "धातूच्या लढाऊ विमानांपेक्षा रबर वस्तू कमी आहेत का?",
+    "agreement": 0.8889
+  },
+  {
+    "id": "mathvista_89",
+    "english": "How many miles per gallon do an average city bus get?",
+    "indictrans2": "सरासरी सिटी बस प्रति गॅलन किती मैल पोहोचते?",
+    "secondary": "सरासरी शहर बसला किती मैल प्रति गॅलन मिळतात?",
+    "agreement": 0.76
+  },
+  {
+    "id": "scienceqa_00526",
+    "english": "Which of the following fossils is older? Select the more likely answer.",
+    "indictrans2": "खालीलपैकी कोणते जीवाश्म जुने आहे? अधिक संभाव्य उत्तर निवडा.",
+    "secondary": "खालीलपैकी कोणते जीवाश्म जुने आहे? अधिक संभाव्य उत्तर निवडा.",
+    "agreement": 1.0
+  },
+  {
+    "id": "scienceqa_00396",
+    "english": "Which part of the orange tree makes the seeds?",
+    "indictrans2": "संत्र्याच्या झाडाचा कोणता भाग बिया तयार करतो?",
+    "secondary": "संत्र्याच्या झाडाचा कोणता भाग बिया तयार करतो?",
+    "agreement": 1.0
+  },
+  {
+    "id": "mathvista_76",
+    "english": "What happens to fish if pelicans increase?",
+    "indictrans2": "पेलिकन वाढल्यास माशांचे काय होते?",
+    "secondary": "जर पेलिकनांची संख्या वाढली तर माशांचे काय होते?",
+    "agreement": 0.84
+  },
+  {
+    "id": "mathvista_277",
+    "english": "Which cube is identical to the unfolded net?",
+    "indictrans2": "अनफोल्डेड नेटशी कोणता घन समान आहे?",
+    "secondary": "कोणता घन उलगडलेल्या जाळ्यासारखा आहे?",
+    "agreement": 0.5517
+  }
+]

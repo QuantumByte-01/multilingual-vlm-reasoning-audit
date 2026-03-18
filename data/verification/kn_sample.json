@@ -1,0 +1,352 @@
+[
+  {
+    "id": "mathvista_192",
+    "english": "As shown in the figure, the diameter CD of ⊙O crosses the midpoint G of chord EF, ∠DCF = 20.0, then ∠EOD is equal to ()",
+    "indictrans2": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಓ. ಒ. ಒ. ನ ವ್ಯಾಸದ ಸಿ. ಡಿ. ಯು ಸ್ವರಮೇಳದ ಇ. ಎಫ್. ನ ಮಧ್ಯಬಿಂದು ಜಿ. ಯನ್ನು ದಾಟಿದರೆ, ಎ. ಎನ್. ಟಿ. ಸಿ. ಎಫ್. @= @@s @, ನಂತರ ಎ. ಎನ್. ಟಿ. ಇ. ಓ. ಡಿ. ಯು () ಗೆ ಸಮನಾಗಿರುತ್ತದೆ.",
+    "secondary": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, ⊙O ಯ ವ್ಯಾಸ CD, EF ತಂತಿಯ ಮಧ್ಯಬಿಂದು G ಯನ್ನು ದಾಟುತ್ತದೆ, ∠DCF = 20.0, ನಂತರ ∠EOD ಗೆ ಸಮಾನವಾಗಿದೆ ()",
+    "agreement": 0.5625
+  },
+  {
+    "id": "scienceqa_00100",
+    "english": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?",
+    "indictrans2": "ಪ್ರತಿ ಮಾದರಿಯಲ್ಲಿನ ಕಣಗಳ ಸರಾಸರಿ ಚಲನ ಶಕ್ತಿಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ. ಯಾವ ಮಾದರಿಯು ಹೆಚ್ಚಿನ ತಾಪಮಾನವನ್ನು ಹೊಂದಿದೆ?",
+    "secondary": "ಪ್ರತಿ ಮಾದರಿಯಲ್ಲಿನ ಕಣಗಳ ಸರಾಸರಿ ಚಲನಾ ಶಕ್ತಿಯನ್ನು ಹೋಲಿಸಿ. ಯಾವ ಮಾದರಿಯು ಹೆಚ್ಚಿನ ತಾಪಮಾನವನ್ನು ಹೊಂದಿದೆ?",
+    "agreement": 0.9655
+  },
+  {
+    "id": "mathvista_6",
+    "english": "As shown in the figure, if CB = 4.0, DB = 7.0, and D is the midpoint of AC, then the length of AC is ()",
+    "indictrans2": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಸಿ. ಬಿ. @7.0 D.0 @, ಡಿ. ಬಿ. @= @@= @ಮತ್ತು @D @ಎಸಿ ಯ ಮಧ್ಯಬಿಂದುವಾಗಿದ್ದರೆ, ಎಸಿ ಉದ್ದವು () ಆಗಿರುತ್ತದೆ.",
+    "secondary": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, CB = 4.0, DB = 7.0, ಮತ್ತು D AC ಯ ಮಧ್ಯಬಿಂದು ಆಗಿದ್ದರೆ, AC ಯ ಉದ್ದ () ಆಗಿದೆ.",
+    "agreement": 0.7568
+  },
+  {
+    "id": "mmmu_mechanical_engineering_0026",
+    "english": "Gate AB in <image 1> is a quarter circle 10 ft wide into the paper and hinged at B . Find the force F just sufficient to keep the gate from opening. The gate is uniform and weighs 3000 lbf.",
+    "indictrans2": "<ಇಮೇಜ್ 1ನಲ್ಲಿರುವ ಗೇಟ್ ಎಬಿ, ಕಾಗದದೊಳಗೆ 10ಅಡಿ ಅಗಲದ ಕಾಲು ವೃತ್ತವಾಗಿದೆ ಮತ್ತು Bನಲ್ಲಿ ಹಿಂಜ್ ಆಗಿದೆ. ಗೇಟ್ ತೆರೆಯದಂತೆ ತಡೆಯಲು ಎಫ್ ಬಲವನ್ನು ಹುಡುಕಿ. ಗೇಟ್ ಏಕರೂಪವಾಗಿದೆ ಮತ್ತು 3000ಎಲ್ಬಿಎಫ್ ತೂಗುತ್ತದೆ.",
+    "secondary": "ಚಿತ್ರ 1 ರಲ್ಲಿ ಗೇಟ್ AB ಒಂದು ಕಾಲು ವೃತ್ತವಾಗಿದ್ದು, ಕಾಗದದೊಳಗೆ 10 ft ಅಗಲವಿದೆ ಮತ್ತು B ನಲ್ಲಿ ಕೀಲು ಮಾಡಲಾಗಿದೆ. ಗೇಟ್ ತೆರೆಯದಂತೆ ಇಡುವುದಕ್ಕೆ ಸಾಕಷ್ಟು ಬಲ F ಅನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಗೇಟ್ ಸಮವಸ್ತ್ರವಾಗಿದ್ದು 3000 lbf ತೂಕವಿದೆ.",
+    "agreement": 0.6538
+  },
+  {
+    "id": "scienceqa_00549",
+    "english": "Look at the models of molecules below. Select the elementary substance.",
+    "indictrans2": "ಕೆಳಗಿನ ಅಣುಗಳ ಮಾದರಿಗಳನ್ನು ನೋಡಿ. ಪ್ರಾಥಮಿಕ ಪದಾರ್ಥವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+    "secondary": "ಕೆಳಗಿನ ಅಣುಗಳ ಮಾದರಿಗಳನ್ನು ನೋಡಿ. ಮೂಲಭೂತ ಪದಾರ್ಥವನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+    "agreement": 0.8519
+  },
+  {
+    "id": "mmmu_math_0006",
+    "english": "Match the six example contra dance in sequence, Circle Right, Ladies' Chain, Swing on side, Gents Allemande, Right and Left Through, Caifornia Twirl, with the figures <image 1>",
+    "indictrans2": "ಸರ್ಕಲ್ ರೈಟ್, ಲೇಡೀಸ್ ಚೈನ್, ಸ್ವಿಂಗ್ ಆನ್ ಸೈಡ್, ಜೆಂಟ್ಸ್ ಅಲ್ಲೆಮಂಡೆ, ರೈಟ್ ಅಂಡ್ ಲೆಫ್ಟ್ ಥ್ರೂ, ಕೈಫೋರ್ನಿಯಾ ಟ್ವಿರ್ಲ್ ಎಂಬ ಆರು ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ಕಾಂಟ್ರಾ ನೃತ್ಯವನ್ನು ಅನುಕ್ರಮವಾಗಿ ಹೋಲಿಸಿ.",
+    "secondary": "ಆರು ಉದಾಹರಣೆ ಕಾನ್ಟ್ರಾ ಡ್ಯಾನ್ಸ್ ಅನ್ನು ಕ್ರಮದಲ್ಲಿ ಹೊಂದಿಸಿ, ಸರ್ಕಲ್ ರೈಟ್, ಲೇಡೀಸ್ ಚೈನ್, ಸ್ವಿಂಗ್ ಆನ್ ಸೈಡ್, ಜೆಂಟ್ಸ್ ಅಲೆಮಾಂಡ್, ರೈಟ್ ಅಂಡ್ ಲೆಫ್ಟ್ ತ್ರೂ, ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ ಟ್ವಿರ್ಲ್, <ಚಿತ್ರ 1> ಜೊತೆ.",
+    "agreement": 0.8182
+  },
+  {
+    "id": "scienceqa_00544",
+    "english": "Which of the following could Brennan's test show?",
+    "indictrans2": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಬ್ರೆನ್ನನ್ ಅವರ sಪರೀಕ್ಷೆಯನ್ನು ತೋರಿಸಬಲ್ಲದು?",
+    "secondary": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಯಾವುದು ಬ್ರೆನ್ನನ್‌ನ ಪರೀಕ್ಷೆ ತೋರಿಸಬಹುದು?",
+    "agreement": 0.8214
+  },
+  {
+    "id": "mathvista_317",
+    "english": "What is the age gap between these two people in image?",
+    "indictrans2": "ಚಿತ್ರದಲ್ಲಿ ಈ ಇಬ್ಬರು ವ್ಯಕ್ತಿಗಳ ನಡುವಿನ ವಯಸ್ಸಿನ ಅಂತರ ಎಷ್ಟು?",
+    "secondary": "ಚಿತ್ರದಲ್ಲಿರುವ ಈ ಇಬ್ಬರ ವಯಸ್ಸಿನ ಅಂತರ ಎಷ್ಟು?",
+    "agreement": 0.8462
+  },
+  {
+    "id": "scienceqa_00182",
+    "english": "Which bird's beak is also adapted to crack large, hard nuts?",
+    "indictrans2": "ಯಾವ ಹಕ್ಕಿ'sಕೊಕ್ಕನ್ನು ದೊಡ್ಡ, ಗಟ್ಟಿಯಾದ ಬೀಜಗಳನ್ನು ಭೇದಿಸಲು ಸಹ ಅಳವಡಿಸಿಕೊಳ್ಳಲಾಗಿದೆ?",
+    "secondary": "ಯಾವ ಹಕ್ಕಿಯ ಚಂಚು ದೊಡ್ಡ, ಕಠಿಣ ಕಾಯಿ ಒಡೆಯಲು ಹೊಂದಿಕೊಳ್ಳಲಾಗಿದೆ?",
+    "agreement": 0.5294
+  },
+  {
+    "id": "scienceqa_00615",
+    "english": "Which material is this coat made of?",
+    "indictrans2": "ಈ ಕೋಟು ಯಾವ ವಸ್ತುಗಳಿಂದ ತಯಾರಿಸಲ್ಪಟ್ಟಿದೆ?",
+    "secondary": "ಈ ಕೋಟ್ ಯಾವ ವಸ್ತುವಿನಿಂದ ತಯಾರಿಸಲಾಗಿದೆ?",
+    "agreement": 0.8696
+  },
+  {
+    "id": "mathvista_218",
+    "english": "Subtract all large red rubber blocks. Subtract all tiny red matte objects. How many objects are left?",
+    "indictrans2": "ಎಲ್ಲಾ ದೊಡ್ಡ ಕೆಂಪು ರಬ್ಬರ್ ಬ್ಲಾಕ್ಗಳನ್ನು ಕಳೆಯಿರಿ. ಎಲ್ಲಾ ಸಣ್ಣ ಕೆಂಪು ಮ್ಯಾಟ್ ವಸ್ತುಗಳನ್ನು ಕಳೆಯಿರಿ. ಎಷ್ಟು ವಸ್ತುಗಳು ಉಳಿದಿವೆ?",
+    "secondary": "ಎಲ್ಲಾ ದೊಡ್ಡ ಕೆಂಪು ರಬ್ಬರ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಕಡಿತಮಾಡಿ. ಎಲ್ಲಾ ಸಣ್ಣ ಕೆಂಪು ಮ್ಯಾಟ್ ವಸ್ತುಗಳನ್ನು ಕಡಿತಮಾಡಿ. ಎಷ್ಟು ವಸ್ತುಗಳು ಉಳಿದಿವೆ?",
+    "agreement": 0.9677
+  },
+  {
+    "id": "scienceqa_00194",
+    "english": "Select the mammal below.",
+    "indictrans2": "ಕೆಳಗಿನ ಸಸ್ತನಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+    "secondary": "ಕೆಳಗಿನ ಸಸ್ತನಿಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+    "agreement": 1.0
+  },
+  {
+    "id": "mmmu_architecture_and_engineering_0014",
+    "english": "Load moves along the three-hinged,  parabolic arch ABC, shown in Figure P12.24.  Construct the influence lines for the reactions at  C, and shear, axial load and moment at point D.  The equation for the parabolic arch is y = 4hx2 /L2 . If a point load P = 3 kips is applied at B,  compute shear load at D.<image 1>",
+    "indictrans2": "ಚಿತ್ರ P12ರಲ್ಲಿ ತೋರಿಸಿರುವ ಪ್ಯಾರಾಬೊಲಿಕ್ ಆರ್ಚ್ ABCಯ ಮೂರು -hinged ಉದ್ದಕ್ಕೂ ಲೋಡ್ ಚಲಿಸುತ್ತದೆ. 24. ಪ್ರತಿಕ್ರಿಯೆಗಳ ಪ್ರಭಾವ ರೇಖೆಗಳನ್ನು Cನಲ್ಲಿ ನಿರ್ಮಿಸಿ, ಮತ್ತು ಶಿಯರ್, ಅಕ್ಷೀಯ ಲೋಡ್ ಮತ್ತು ಪಾಯಿಂಟ್ Dನಲ್ಲಿ ಮೊಮೆಂಟ್ ಮಾಡಿ. ಪ್ಯಾರಾಬೊಲಿಕ್ ಆರ್ಚ್ನ ಸಮೀಕರಣವು y =4hx2/L2 ಆಗಿದೆ. ಒಂದು ಪಾಯಿಂಟ್ ಲೋಡ್ P B6 @ಕಿಪ್ಸ್ ಅನ್ನು Bನಲ್ಲಿ ಅನ್ವಯಿಸಿದರೆ, ಶಿಯರ್ ಲೋಡ್ ಅನ್ನು Dನಲ್ಲಿ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ.",
+    "secondary": "ಭಾರವು ಚಿತ್ರ P12.24 ನಲ್ಲಿ ತೋರಿಸಿದಂತೆ ಮೂರು-ಕೀಲುಗಳ, ಪರಬೋಲಿಕ್ ಕಮಾನು ABC לאורך ಸಾಗುತ್ತದೆ. C ನಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯೆಗಳ ಪ್ರಭಾವ ರೇಖೆಗಳನ್ನು ಮತ್ತು D ಬಿಂದುವಿನಲ್ಲಿ ಶಿಯರ್, ಅಕ್ಷೀಯ ಭಾರ ಮತ್ತು ಕ್ಷಣವನ್ನು ನಿರ್ಮಿಸಿ. ಪರಬೋಲಿಕ್ ಕಮಾನುಗಾಗಿ ಸಮೀಕರಣ y = 4hx2 /L2 ಆಗಿದೆ. B ನಲ್ಲಿ P = 3 kips ಬಿಂದುವಿನಲ್ಲಿ ಬಿಂದು ಭಾರವನ್ನು ಅನ್ವಯಿಸಿದರೆ, D ನಲ್ಲಿ ಶಿಯರ್ ಭಾರವನ್ನು ಲೆಕ್ಕಿಸಿ.",
+    "agreement": 0.7183
+  },
+  {
+    "id": "mathvista_127",
+    "english": "How much more accurate is the most accurate algorithm compared the least accurate algorithm?",
+    "indictrans2": "ಕನಿಷ್ಠ ನಿಖರವಾದ ಅಲ್ಗಾರಿದಮ್ಗೆ ಹೋಲಿಸಿದರೆ ಅತ್ಯಂತ ನಿಖರವಾದ ಅಲ್ಗಾರಿದಮ್ ಎಷ್ಟು ಹೆಚ್ಚು ನಿಖರವಾಗಿದೆ?",
+    "secondary": "ಅತ್ಯಂತ ಖಚಿತವಾದ ಅಲ್ಗಾರಿಥಮ್ ಅತಿ ಕಡಿಮೆ ಖಚಿತವಾದ ಅಲ್ಗಾರಿಥಮ್‌ಗಿಂತ ಎಷ್ಟು ಹೆಚ್ಚು ಖಚಿತವಾಗಿದೆ?",
+    "agreement": 0.7742
+  },
+  {
+    "id": "mmmu_math_0001",
+    "english": "For the picture galleries the plans of which are given in Fig. 1, find the smallest number of attendants who, if placed in the various doorways connect two adjacent rooms, can supervise all rooms. Use integer programming and the simplex method to solve.\n<image 1>",
+    "indictrans2": "ಚಿತ್ರ ಗ್ಯಾಲರಿಗಳಿಗೆ ಚಿತ್ರ 1ನಲ್ಲಿ ನೀಡಲಾಗಿರುವ ಯೋಜನೆಗಳ ಪ್ರಕಾರ, ಪಕ್ಕದ ಎರಡು ಕೊಠಡಿಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ವಿವಿಧ ಬಾಗಿಲುಗಳಲ್ಲಿ ಇರಿಸಿದರೆ, ಎಲ್ಲಾ ಕೊಠಡಿಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಬಲ್ಲ ಅತಿ ಕಡಿಮೆ ಸಂಖ್ಯೆಯ ಪರಿಚಾರಕರನ್ನು ಹುಡುಕಿ. ಪರಿಹರಿಸಲು ಪೂರ್ಣಾಂಕ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಮತ್ತು ಸಿಂಪ್ಲೆಕ್ಸ್ ವಿಧಾನವನ್ನು ಬಳಸಿ.",
+    "secondary": "ಚಿತ್ರ ಗ್ಯಾಲರಿಗಳಿಗಾಗಿ Fig. 1 ರಲ್ಲಿ ನೀಡಿರುವ ಯೋಜನೆಗಳನ್ನು ಗಮನಿಸಿ, ಎಲ್ಲಾ ಕೊಠಡಿಗಳನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಲು, ಸಮೀಪದ ಎರಡು ಕೊಠಡಿಗಳನ್ನು ಸಂಪರ್ಕಿಸುವ ವಿವಿಧ ಬಾಗಿಲುಗಳಲ್ಲಿ ಇರಿಸಿದರೆ, ಅತ್ಯಲ್ಪ ಸಂಖ್ಯೆಯ ಮೇಲ್ವಿಚಾರಕರನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ. ಪೂರ್ಣಾಂಕ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಮತ್ತು ಸಿಂಪ್ಲೆಕ್ಸ್ ವಿಧಾನವನ್ನು ಬಳಸಿಕೊಂಡು ಪರಿಹರಿಸಿ.",
+    "agreement": 0.9302
+  },
+  {
+    "id": "scienceqa_00388",
+    "english": "In this experiment, which were part of a control group?",
+    "indictrans2": "ಈ ಪ್ರಯೋಗದಲ್ಲಿ, ನಿಯಂತ್ರಣ ಗುಂಪಿನ ಭಾಗವಾಗಿದ್ದವರು ಯಾರು?",
+    "secondary": "ಈ ಪ್ರಯೋಗದಲ್ಲಿ, ಯಾವವು ನಿಯಂತ್ರಣ ಗುಂಪಿನ ಭಾಗವಾಗಿದ್ದವು?",
+    "agreement": 1.0
+  },
+  {
+    "id": "mathvista_358",
+    "english": "Which of the cubes is the same as the unfolded cube?",
+    "indictrans2": "ಯಾವ ಘನಗಳು ತೆರೆದ ಘನಕ್ಕೆ ಸಮಾನವಾಗಿವೆ?",
+    "secondary": "ಯಾವ ಕ್ಯೂಬ್‌ಗಳು ವಿಕಸಿತ ಕ್ಯೂಬ್‌ಗೆ ಸಮಾನವಾಗಿವೆ?",
+    "agreement": 0.7273
+  },
+  {
+    "id": "mmmu_physics_0001",
+    "english": "<image 1>A conducting loop of wire that is initially around a magnet is pulled away from the magnet to the right, as indicated in the figure, inducing a current in the loop. What is the direction of the force on the magnet and the direction of the magnetic field at the center of the loop due to the induced current?Force on the Magnet/Magnetic Field at Center of Loop due To Induced Current",
+    "indictrans2": "ಆರಂಭದಲ್ಲಿ ಒಂದು ಆಯಸ್ಕಾಂತದ ಸುತ್ತ ಇರುವ ತಂತಿಯ ವಾಹಕ ಲೂಪ್ಅನ್ನು ಚಿತ್ರದಲ್ಲಿ ಸೂಚಿಸಿರುವಂತೆ ಆಯಸ್ಕಾಂತದಿಂದ ಬಲಕ್ಕೆ ಎಳೆಯಲಾಗುತ್ತದೆ, ಇದು ಲೂಪ್ ನಲ್ಲಿ ಪ್ರವಾಹವನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ. ಪ್ರೇರಿತ ಪ್ರವಾಹದಿಂದಾಗಿ ಆಯಸ್ಕಾಂತದ ಮೇಲಿನ ಬಲದ ದಿಕ್ಕು ಮತ್ತು ಲೂಪ್ ಮಧ್ಯದಲ್ಲಿರುವ ಆಯಸ್ಕಾಂತ ಕ್ಷೇತ್ರದ ದಿಕ್ಕು ಏನು? ಪ್ರೇರಿತ ಪ್ರವಾಹದಿಂದಾಗಿ ಲೂಪ್ ಕೇಂದ್ರದಲ್ಲಿರುವ ಆಯಸ್ಕಾಂತ/ಆಯಸ್ಕಾಂತ ಕ್ಷೇತ್ರದ ಮೇಲೆ ಬಲವನ್ನು ಒತ್ತಿರಿ.",
+    "secondary": "ಮ್ಯಾಗ್ನೆಟ್ ಮೇಲೆ ಬಲ/ಇಂಡ್ಯೂಸ್ ಮಾಡಿದ ವಿದ್ಯುತ್ ಪ್ರವಾಹದಿಂದ ಲೂಪ್‌ನ ಕೇಂದ್ರದಲ್ಲಿ ಚುಂಬಕ ಕ್ಷೇತ್ರದ ದಿಕ್ಕು",
+    "agreement": 0.6585
+  },
+  {
+    "id": "scienceqa_00412",
+    "english": "Which property do these three objects have in common?",
+    "indictrans2": "ಈ ಮೂರು ವಸ್ತುಗಳಿಗೆ ಯಾವ ಗುಣಲಕ್ಷಣಗಳಿವೆ?",
+    "secondary": "ಈ ಮೂರು ವಸ್ತುಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಇರುವ ಗುಣವೇನು?",
+    "agreement": 0.75
+  },
+  {
+    "id": "scienceqa_00355",
+    "english": "Select the organism in the same genus as the great gray owl.",
+    "indictrans2": "ದೊಡ್ಡ ಬೂದು ಬಣ್ಣದ ಗೂಬೆಯ ಅದೇ ಕುಲದ ಜೀವಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+    "secondary": "ಮಹಾ ಬೂದು ಗೂಬೆಯೊಂದಿಗೆ ಅದೇ ಜಾತಿಯಲ್ಲಿರುವ ಜೀವಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+    "agreement": 0.8276
+  },
+  {
+    "id": "mathvista_241",
+    "english": "How many models in the table have a model size larger than 10B?",
+    "indictrans2": "ಮೇಜಿನಲ್ಲಿರುವ ಎಷ್ಟು ಮಾದರಿಗಳು 10ಬಿಗಿಂತ ದೊಡ್ಡ ಗಾತ್ರದ ಮಾದರಿಯನ್ನು ಹೊಂದಿವೆ?",
+    "secondary": "ಕೋಷ್ಟಕದಲ್ಲಿ ಎಷ್ಟು ಮಾದರಿಗಳು 10B ಗಿಂತ ದೊಡ್ಡ ಮಾದರಿ ಗಾತ್ರವನ್ನು ಹೊಂದಿವೆ?",
+    "agreement": 0.7812
+  },
+  {
+    "id": "mathvista_186",
+    "english": "As shown in the figure, CD is a plane mirror, the light is emitted from point A, reflected by point E on CD, and irradiated to point B. If the incident angle is α, AC ⊥ CD, BD ⊥ CD, the feet of perpendicular are C, D, and AC = 3.0, BD = 6.0, CD = 10.0, then the length of the line segment ED is ()",
+    "indictrans2": "ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ, ಸಿ. ಡಿ. ಯು ಸಮತಲ ಕನ್ನಡಿಯಾಗಿದ್ದು, ಸಿ. ಡಿ. ಯಲ್ಲಿ ಇ ಬಿಂದುವಿನಿಂದ ಪ್ರತಿಫಲಿತವಾಗುವ ಬಿಂದುವಿನಿಂದ ಹೊರಸೂಸುವ ಬೆಳಕನ್ನು ಹೊರಸೂಸುತ್ತದೆ ಮತ್ತು Bಬಿಂದುವಿಗೆ ವಿಕಿರಣಗೊಳಿಸಲಾಗುತ್ತದೆ. ಆಪಾದಿತ ಕೋನವು α, ಎಸಿಡಿಡಿಡಿ, ಬಿಡಿಡಿಡಿ ಆಗಿದ್ದರೆ, ಲಂಬವಾದ ಅಡಿಗಳು C> @, D> @, ಮತ್ತು ಎಸಿ => 3.0> @, ಬಿಡಿ => @@50 @, ಸಿಡಿ => 10.0ಆಗ ರೇಖೆ ವಿಭಾಗದ ಇಡಿ ಉದ್ದವು () ಆಗಿರುತ್ತದೆ.",
+    "secondary": "ರೇಖಾಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿದಂತೆ, CD ಒಂದು ಸಮತಲ ಕನ್ನಡಿ, ಬೆಳಕು A ಬಿಂದುವಿನಿಂದ ಹೊರಬರುತ್ತದೆ, CD ಮೇಲೆ E ಬಿಂದುವಿನಲ್ಲಿ ಪ್ರತಿಫಲಿತವಾಗುತ್ತದೆ ಮತ್ತು B ಬಿಂದುವಿಗೆ ತಲುಪುತ್ತದೆ._incident_angle_ α ಆಗಿದ್ದರೆ, AC ⊥ CD, BD ⊥ CD, ಲಂಬದ ಪಾದಗಳು C, D, ಮತ್ತು AC = 3.0, BD = 6.0, CD = 10.0 ಆಗಿದ್ದರೆ, ED ರೇಖಾಖಂಡದ ಉದ್ದ ()",
+    "agreement": 0.6269
+  },
+  {
+    "id": "mathvista_447",
+    "english": "Does Midnight Blue intersect Purple?",
+    "indictrans2": "ಮಿಡ್ನೈಟ್ ಬ್ಲೂ ನೇರಳೆ ಬಣ್ಣವನ್ನು ಛೇದಿಸುತ್ತದೆಯೇ?",
+    "secondary": "ಮಿಡ್ನೈಟ್ ಬ್ಲೂ ಪರ್ಪಲ್ ಅನ್ನು ಛೇದಿಸುತ್ತದೆಯೇ?",
+    "agreement": 0.8077
+  },
+  {
+    "id": "mathvista_199",
+    "english": "Figure 23-42 is a section of a conducting rod of radius $R_1=1.30 \\mathrm{~mm}$ and length $L=$ $11.00 \\mathrm{~m}$ inside a thin-walled coaxial conducting cylindrical shell of radius $R_2=10.0 R_1$ and the (same) length $L$. The net charge on the rod is $Q_1=+3.40 \\times 10^{-12} \\mathrm{C}$; that on the shell is $Q_2=-2.00 Q_1$. What is the magnitude $E$ of the electric field at radial distance $r=2.00 R_2$?",
+    "indictrans2": "ಚಿತ್ರ 23-ಇದು ತ್ರಿಜ್ಯದ ವಾಹಕ ರಾಡ್ನ ಒಂದು ವಿಭಾಗವಾಗಿದೆ $R _ 1 =1.30\\mathrm {mm$ಮತ್ತು ಉದ್ದ $L=$11.00\\mathrm {~ m$ಒಂದು ತೆಳುವಾದ -0 @@walled ಕೋಕ್ಸಿಯಲ್ ತ್ರಿಜ್ಯದ ಸಿಲಿಂಡರಾಕಾರದ ಶೆಲ್ ಅನ್ನು ನಡೆಸುತ್ತದೆ $R _ 2 -1 -2 @R _ 1 $ಮತ್ತು (ಅದೇ) ಉದ್ದ $-3 @ನಿವ್ವಳ ರಾಡ್ನಲ್ಲಿ ಚಾರ್ಜ್ ರಾಡ್ $-4 ಬಾರಿ -1 -",
+    "secondary": "ರೇಖಾಚಿತ್ರ 23-42 ಒಂದು ನಿರ್ವಾಹಕ ದಂಡದ ವಿಭಾಗವಾಗಿದ್ದು, ಇದರ ತ್ರಿಜ್ಯಾ $R_1=1.30 \\mathrm{~mm}$ ಮತ್ತು ಉದ್ದ $L=11.00 \\mathrm{~m}$, ಇದು ತಂತುಭಿತ್ತಿಯುಳ್ಳ ಸಹಕ್ಷೀಯ ನಿರ್ವಾಹಕ ಉರಿಯ ತ್ರಿಜ್ಯಾ $R_2=10.0 R_1$ ಮತ್ತು (ಅದೇ) ಉದ್ದ $L$ ಒಳಗೆ ಇದೆ. ದಂಡದ ಮೇಲೆ ಶುದ್ಧ ವಿದ್ಯುತ್ ಭಾರ $Q_1=+3.40 \\times 10^{-12} \\mathrm{C}$; ಉರಿಯ ಮೇಲೆ $Q_2=-2.00 Q_1$. ತ್ರಿಜ್ಯಾ ಅಂತರದಲ್ಲಿ ವಿದ್ಯುತ್ ಕ್ಷೇತ್ರದ ಪ್ರಮಾಣ $E$ ಎಷ್ಟು $r=2.00 R_2$?",
+    "agreement": 0.6795
+  },
+  {
+    "id": "scienceqa_00248",
+    "english": "Will these magnets attract or repel each other?",
+    "indictrans2": "ಈ ಅಯಸ್ಕಾಂತಗಳು ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆಯೇ ಅಥವಾ ಹಿಮ್ಮೆಟ್ಟಿಸುತ್ತವೆಯೇ?",
+    "secondary": "ಈ ಚುಂಬಕಗಳು ಪರಸ್ಪರ ಆಕರ್ಷಿಸುತ್ತವೆಯಾ ಅಥವಾ ತಳ್ಳುತ್ತವೆಯಾ?",
+    "agreement": 0.7857
+  },
+  {
+    "id": "scienceqa_00649",
+    "english": "Which property do these two objects have in common?",
+    "indictrans2": "ಈ ಎರಡು ವಸ್ತುಗಳಿಗೆ ಯಾವ ಗುಣಲಕ್ಷಣಗಳಿವೆ?",
+    "secondary": "ಈ ಎರಡು ವಸ್ತುಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಇರುವ ಗುಣವೇನು?",
+    "agreement": 0.72
+  },
+  {
+    "id": "mmmu_architecture_and_engineering_0024",
+    "english": "A road is being proposed to facilitate a housing development on a scenic lake. Two alternatives have been suggested. One of the roadway alignments is to go around the lake  and slightly impact a wetland. The second alternative will also go around the lake and  will significantly impact two wetlands. The following table shows the anticipated costs  for each alternative. Assuming that the annual interestrate is 7 percent, determine which alternative is preferred using equivalent annual cost analysis.<image 1>",
+    "indictrans2": "ಸುಂದರವಾದ ಸರೋವರದ ಮೇಲೆ ವಸತಿ ಅಭಿವೃದ್ಧಿಯನ್ನು ಸುಲಭಗೊಳಿಸಲು ರಸ್ತೆಯನ್ನು ಪ್ರಸ್ತಾಪಿಸಲಾಗಿದೆ. ಎರಡು ಪರ್ಯಾಯಗಳನ್ನು ಸೂಚಿಸಲಾಗಿದೆ. ರಸ್ತೆಯ ಜೋಡಣೆಗಳಲ್ಲಿ ಒಂದು ಸರೋವರದ ಸುತ್ತಲೂ ಹೋಗಿ ತೇವಾಂಶದ ಮೇಲೆ ಸ್ವಲ್ಪ ಪರಿಣಾಮ ಬೀರುವುದು. ಎರಡನೇ ಪರ್ಯಾಯವು ಸರೋವರದ ಸುತ್ತಲೂ ಹೋಗುತ್ತದೆ ಮತ್ತು ಎರಡು ಜೌಗು ಪ್ರದೇಶಗಳ ಮೇಲೆ ಗಮನಾರ್ಹ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ. ಈ ಕೆಳಗಿನ ಕೋಷ್ಟಕವು ಪ್ರತಿ ಪರ್ಯಾಯಕ್ಕೆ ನಿರೀಕ್ಷಿತ ವೆಚ್ಚವನ್ನು ತೋರಿಸುತ್ತದೆ. ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರವು 7ಶೇಕಡಾ ಎಂದು ಭಾವಿಸಿ, ಸಮಾನ ವಾರ್ಷಿಕ ವೆಚ್ಚ ವಿಶ್ಲೇಷಣೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಯಾವ ಪರ್ಯಾಯಕ್ಕೆ ಆದ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಿ.",
+    "secondary": "ಒಂದು ದೃಶ್ಯಮಯ ಸರೋವರದ ಮೇಲೆ ಗೃಹ ಅಭಿವೃದ್ಧಿಗೆ ಸಹಾಯ ಮಾಡಲು ಒಂದು ರಸ್ತೆ ಪ್ರಸ್ತಾಪಿಸಲಾಗಿದೆ. ಎರಡು ಪರ್ಯಾಯಗಳನ್ನು ಸೂಚಿಸಲಾಗಿದೆ. ರಸ್ತೆ ಹೊಂದಾಣಿಕೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಸರೋವರದ ಸುತ್ತಲೂ ಹೋಗಲು ಮತ್ತು ಸ್ವಲ್ಪವಾಗಿ ಒಬ್ಬ ತೇವಭೂಮಿಯನ್ನು ಪ್ರಭಾವಿಸಲು ಸೂಚಿಸಲಾಗಿದೆ. ಎರಡನೇ ಪರ್ಯಾಯವು ಸಹ ಸರೋವರದ ಸುತ್ತಲೂ ಹೋಗುತ್ತದೆ ಮತ್ತು ಎರಡು ತೇವಭೂಮಿಗಳನ್ನು ಪ್ರಮುಖವಾಗಿ ಪ್ರಭಾವಿಸುತ್ತದೆ. ಕೆಳಗಿನ ಪಟ್ಟಿಯಲ್ಲಿ ಪ್ರತಿ ಪರ್ಯಾಯಕ್ಕಾಗಿ ನಿರೀಕ್ಷಿತ ವೆಚ್ಚಗಳನ್ನು ತೋರಿಸಲಾಗಿದೆ. ವಾರ್ಷಿಕ ಬಡ್ಡಿದರವು 7 ಶೇಕಡಾ ಎಂದು ಊಹಿಸಿ, ಸಮಾನ ವಾರ್ಷಿಕ ವೆಚ್ಚ ವಿಶ್ಲೇಷಣೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಯಾವ ಪರ್ಯಾಯವನ್ನು ಆದ್ಯತೆ ನೀಡಬೇಕು ಎಂದು ನಿರ್ಧರಿಸಿ.",
+    "agreement": 0.8958
+  },
+  {
+    "id": "scienceqa_00233",
+    "english": "Identify the question that Nate's experiment can best answer.",
+    "indictrans2": "ನೇಟ್'sಪ್ರಯೋಗವು ಅತ್ಯುತ್ತಮವಾಗಿ ಉತ್ತರಿಸಬಹುದಾದ ಪ್ರಶ್ನೆಯನ್ನು ಗುರುತಿಸಿ.",
+    "secondary": "ನೇಟ್‌ನ ಪ್ರಯೋಗವು ಅತ್ಯುತ್ತಮವಾಗಿ ಉತ್ತರಿಸಬಹುದಾದ ಪ್ರಶ್ನೆಯನ್ನು ಗುರುತಿಸಿ.",
+    "agreement": 0.8929
+  },
+  {
+    "id": "mmmu_architecture_and_engineering_0020",
+    "english": "A survey line ABC crossing a river at right angles cut its banks at B and C, as shown in Fig. 2.39. To determine the width BC of the river, the following operation was carried out.A 60 m long line BE was set out roughly parallel to the river. Line CE was extended to D and mid-point F of DB was established. Then EF was extended to G such that FG = EF. Line DG was extended to cut the survey line ABC at H. GH and HB were measured and found to be 40 m and 80 m, respectively.Find the width of the river.<image 1>",
+    "indictrans2": "Aಸಮೀಕ್ಷೆಯ ರೇಖೆ ಎಬಿಸಿ ಒಂದು ನದಿಯನ್ನು ಲಂಬ ಕೋನಗಳಲ್ಲಿ ದಾಟುವಾಗ ಅದರ ದಡವನ್ನು Bಮತ್ತು Cನಲ್ಲಿ ಕತ್ತರಿಸುತ್ತದೆ. ಚಿತ್ರದಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ ನದಿಯ ಅಗಲವನ್ನು ನಿರ್ಧರಿಸಲು, ಈ ಕೆಳಗಿನ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಕೈಗೊಳ್ಳಲಾಯಿತು. A60mಉದ್ದದ ರೇಖೆ ಬಿಇಯನ್ನು ನದಿಗೆ ಸರಿಸುಮಾರು ಸಮಾನಾಂತರವಾಗಿ ನಿಗದಿಪಡಿಸಲಾಗಿದೆ. ರೇಖೆ ಸಿಇಯನ್ನು Dಮತ್ತು ಮಧ್ಯದಲ್ಲಿ -point ಡಿಬಿ ಯ ಎಫ್ ಗೆ ವಿಸ್ತರಿಸಲಾಗಿದೆ. ನಂತರ ಇಎಫ್ಅನ್ನು ಜಿ ಗೆ ವಿಸ್ತರಿಸಲಾಯಿತು. ಹೀಗಾಗಿ ಎಫ್ಜಿ =ಇಎಫ್. ರೇಖೆಯನ್ನು ಎಚ್. ಜಿ. ನಲ್ಲಿ ಎಬಿಸಿಯ ಸಮೀಕ್ಷೆಯ ರೇಖೆಯನ್ನು ಕತ್ತರಿಸಲು ವಿಸ್ತರಿಸಲಾಯಿತು ಮತ್ತು ಎಚ್. ಬಿ. ಯನ್ನು ಅಳೆಯಲಾಯಿತು ಮತ್ತು ಕಂಡುಹಿಡಿಯಲಾಯಿತು.",
+    "secondary": "ನದಿ ದಡದ ಅಗಲವನ್ನು ಕಂಡುಹಿಡಿಯಲು, ಹೀಗೆ ಮಾಡಲಾಯಿತು. 60 ಮೀ ಉದ್ದದ BE ರೇಖೆಯನ್ನು ನದಿಗೆ ಸಮಾಂತರವಾಗಿ ಹೊಂದಿಸಲಾಯಿತು. CE ರೇಖೆಯನ್ನು D ವರೆಗೆ ವಿಸ್ತರಿಸಲಾಯಿತು ಮತ್ತು DB ನ ಮಧ್ಯಬಿಂದು F ಅನ್ನು ಸ್ಥಾಪಿಸಲಾಯಿತು. ನಂತರ EF ಅನ್ನು G ವರೆಗೆ ವಿಸ್ತರಿಸಲಾಯಿತು ಹಾಗೆ FG = EF. DG ರೇಖೆಯನ್ನು ABC ಸಮೀಕ್ಷಾ ರೇಖೆಯನ್ನು H ನಲ್ಲಿ ಕತ್ತರಿಸಲು ವಿಸ್ತರಿಸಲಾಯಿತು. GH ಮತ್ತು HB ಅನ್ನು ಅಳೆಯಲಾಯಿತು ಮತ್ತು ಅವು ಕ್ರಮವಾಗಿ 40 ಮೀ ಮತ್ತು 80 ಮೀ ಎಂದು ಕಂಡುಬಂದಿತು. ನದಿಯ ಅಗಲವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "agreement": 0.6308
+  },
+  {
+    "id": "mathvista_1",
+    "english": "When a spring does work on an object, we cannot find the work by simply multiplying the spring force by the object's displacement. The reason is that there is no one value for the force-it changes. However, we can split the displacement up into an infinite number of tiny parts and then approximate the force in each as being constant. Integration sums the work done in all those parts. Here we use the generic result of the integration.\r\n\r\nIn Figure, a cumin canister of mass $m=0.40 \\mathrm{~kg}$ slides across a horizontal frictionless counter with speed $v=0.50 \\mathrm{~m} / \\mathrm{s}$. It then runs into and compresses a spring of spring constant $k=750 \\mathrm{~N} / \\mathrm{m}$. When the canister is momentarily stopped by the spring, by what distance $d$ is the spring compressed?",
+    "indictrans2": "ಒಂದು ಸ್ಪ್ರಿಂಗ್ ಒಂದು ವಸ್ತುವಿನ ಮೇಲೆ ಕೆಲಸ ಮಾಡುವಾಗ, ಸ್ಪ್ರಿಂಗ್ ಬಲವನ್ನು ಕೇವಲ'sಸ್ಥಳಾಂತರಿಸುವಿಕೆಯಿಂದ ಗುಣಿಸುವ ಮೂಲಕ ನಾವು ಕೆಲಸವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕಾರಣವೆಂದರೆ ಬಲಕ್ಕೆ ಯಾವುದೇ ಒಂದು ಮೌಲ್ಯವಿಲ್ಲ. ಆದಾಗ್ಯೂ, ನಾವು ಸ್ಥಳಾಂತರವನ್ನು ಅನಂತ ಸಂಖ್ಯೆಯ ಸಣ್ಣ ಭಾಗಗಳಾಗಿ ವಿಂಗಡಿಸಬಹುದು ಮತ್ತು ನಂತರ ಪ್ರತಿಯೊಂದರಲ್ಲಿನ ಬಲವನ್ನು ಸ್ಥಿರವೆಂದು ಅಂದಾಜು ಮಾಡಬಹುದು. ಏಕೀಕರಣವು ಆ ಎಲ್ಲಾ ಭಾಗಗಳಲ್ಲಿ ಮಾಡಿದ ಕೆಲಸವನ್ನು ಒಟ್ಟುಗೂಡಿಸುತ್ತದೆ. ಇಲ್ಲಿ ನಾವು ಏಕೀಕರಣದ ಸಾಮಾನ್ಯ ಫಲಿತಾಂಶವನ್ನು ಬಳಸುತ್ತೇವೆ. ಚಿತ್ರದಲ್ಲಿ, ದ್ರವ್ಯರಾಶಿಯ ಜೀರಿಗೆ ಡಬ್ಬಿಯು $m=0.40\\mathrm {@I. D. 1} $ಸ್ಥಿರವಾದ ಸ್ಪ್ರಿಂಗ್ ID ಗೆ ಚಲಿಸುತ್ತದೆ ಮತ್ತು ನಂತರ ಇದು ಸ್ಪ್ರಿಂಗ್ ಘರ್ಷಣೆ ಕೌಂಟರ್ಗೆ ಅಡ್ಡಲಾಗಿ $v =mathr @mathr.",
+    "secondary": "ಸ್ಪ್ರಿಂಗ್ ಒಂದು ವಸ್ತುವಿನ ಮೇಲೆ ಕೆಲಸ ಮಾಡುವಾಗ, ನಾವು ಸ್ಪ್ರಿಂಗ್ ಶಕ್ತಿಯನ್ನು ವಸ್ತುವಿನ ಸ್ಥಳಾಂತರದಿಂದ ಗುಣಿಸಿದಷ್ಟೇ ಕೆಲಸವನ್ನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕಾರಣವೆಂದರೆ ಶಕ್ತಿಗೆ ಒಂದು ಮೌಲ್ಯವಿಲ್ಲ - ಅದು ಬದಲಾಗುತ್ತದೆ. ಆದರೆ, ನಾವು ಸ್ಥಳಾಂತರವನ್ನು ಅನಂತ ಸಂಖ್ಯೆಯ ಸಣ್ಣ ಭಾಗಗಳಾಗಿ ವಿಭಜಿಸಿ, ಪ್ರತಿಯೊಂದರಲ್ಲಿ ಶಕ್ತಿಯನ್ನು ಸ್ಥಿರವಾಗಿರುವಂತೆ ಅಂದಾಜಿಸಬಹುದು. ಸಮಾಕಲನವು ಆ ಎಲ್ಲಾ ಭಾಗಗಳಲ್ಲಿ ಮಾಡಿದ ಕೆಲಸವನ್ನು ಸೇರಿಸುತ್ತದೆ. ಇಲ್ಲಿ ನಾವು ಸಮಾಕಲನದ ಸಾಮಾನ್ಯ ಫಲಿತಾಂಶವನ್ನು ಬಳಸುತ್ತೇವೆ.\n\nಚಿತ್ರದಲ್ಲಿ, $m=0.40 \\mathrm{~kg}$ ದ್ರವ್ಯಮಾನದ ಜೀರಿಗೆ ಡಬ್ಬಿ $v=0.50 \\mathrm{~m} / \\mathrm{s}$ ವೇಗದಲ್ಲಿ ಸಮತಲ ಘರ್ಷಣಾರಹಿತ ಕೌಂಟರ್ ಮೇಲೆ ಜಾರುತ್ತದೆ. ನಂತರ ಅದು $k=750 \\mathrm{~N} / \\mathrm{m}$ ಸ್ಪ್ರಿಂಗ್ ಸ್ಥಿರಾಂಕದ ಸ್ಪ್ರಿಂಗ್ ಅನ್ನು ಒತ್ತುತ್ತದೆ. ಡಬ್ಬಿ ಕ್ಷಣಿಕವಾಗಿ ಸ್ಪ್ರಿಂಗ್ ಮೂಲಕ ನಿಲ್ಲಿಸಿದಾಗ, ಸ್ಪ್ರಿಂಗ್ ಎಷ್ಟು ದೂರ $d$",
+    "agreement": 0.7922
+  },
+  {
+    "id": "scienceqa_00339",
+    "english": "Select the organism in the same genus as the gray tree frog.",
+    "indictrans2": "ಬೂದು ಮರದ ಕಪ್ಪೆಯ ಅದೇ ಕುಲದ ಜೀವಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+    "secondary": "ಬೂದು ಮರದ ತವಳದಂತೆ ಅದೇ ಜಾತಿಯಲ್ಲಿರುವ ಜೀವಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+    "agreement": 0.8519
+  },
+  {
+    "id": "mathvista_387",
+    "english": "Of the four balls in the photo, what is the percentage of them on the ground?",
+    "indictrans2": "ಫೋಟೋದಲ್ಲಿರುವ ನಾಲ್ಕು ಚೆಂಡುಗಳಲ್ಲಿ, ನೆಲದ ಮೇಲೆ ಅವುಗಳ ಶೇಕಡಾವಾರು ಎಷ್ಟು?",
+    "secondary": "ಫೋಟೋದಲ್ಲಿನ ನಾಲ್ಕು ಚೆಂಡುಗಳಲ್ಲಿ, ನೆಲದ ಮೇಲೆ ಇರುವ ಅವುಗಳ ಶೇಕಡಾವಾರು ಎಷ್ಟು?",
+    "agreement": 0.9655
+  },
+  {
+    "id": "scienceqa_00164",
+    "english": "Which property do these two objects have in common?",
+    "indictrans2": "ಈ ಎರಡು ವಸ್ತುಗಳಿಗೆ ಯಾವ ಗುಣಲಕ್ಷಣಗಳಿವೆ?",
+    "secondary": "ಈ ಎರಡು ವಸ್ತುಗಳಿಗೆ ಸಾಮಾನ್ಯವಾಗಿ ಇರುವ ಗುಣವೇನು?",
+    "agreement": 0.72
+  },
+  {
+    "id": "mathvista_26",
+    "english": "Is Black greater than Deep Sky Blue?",
+    "indictrans2": "ಆಳವಾದ ಆಕಾಶದ ನೀಲಿ ಬಣ್ಣಕ್ಕಿಂತ ಕಪ್ಪು ಬಣ್ಣವು ದೊಡ್ಡದೇ?",
+    "secondary": "ಕಪ್ಪು ಡೀಪ್ ಸ್ಕೈ ಬ್ಲೂಗಿಂತ ದೊಡ್ಡದೇ?",
+    "agreement": 0.5926
+  },
+  {
+    "id": "mathvista_134",
+    "english": "People can use the engineering-design process to develop solutions to problems. One step in the process is testing if a potential solution meets the requirements of the design.\nThe passage below describes how the engineering-design process was used to test a solution to a problem. Read the passage. Then answer the question below.\n\nCooper was a landscape architect who was hired to design a new city park. The city council wanted the park to have space for outdoor concerts and to have at least 20% of the park shaded by trees. Cooper thought the concert area should be at least 150 meters from the road so traffic noise didn't interrupt the music. He developed three possible designs for the park with the concert area in a different location in each design. Then, he tested each design by measuring the distance between the road and the concert area.\nFigure: studying an architect's design. Which of the following could Cooper's test show?",
+    "indictrans2": "ಜನರು ಸಮಸ್ಯೆಗಳಿಗೆ ಪರಿಹಾರಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ಎಂಜಿನಿಯರಿಂಗ್ -design ಪ್ರಕ್ರಿಯೆಯನ್ನು ಬಳಸಬಹುದು. ಈ ಪ್ರಕ್ರಿಯೆಯ ಒಂದು ಹಂತವೆಂದರೆ ಸಂಭಾವ್ಯ ಪರಿಹಾರವು ವಿನ್ಯಾಸದ ಅವಶ್ಯಕತೆಗಳನ್ನು ಪೂರೈಸುತ್ತದೆಯೇ ಎಂದು ಪರೀಕ್ಷಿಸುವುದು. ಕೆಳಗಿನ ವಾಕ್ಯವೃಂದವು ಸಮಸ್ಯೆಯ ಪರಿಹಾರವನ್ನು ಪರೀಕ್ಷಿಸಲು ಎಂಜಿನಿಯರಿಂಗ್ -design ಪ್ರಕ್ರಿಯೆಯನ್ನು ಹೇಗೆ ಬಳಸಲಾಯಿತು ಎಂಬುದನ್ನು ವಿವರಿಸುತ್ತದೆ. ವಾಕ್ಯವೃಂದವನ್ನು ಓದಿ. ನಂತರ ಕೆಳಗಿನ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸಿ. ಕೂಪರ್ ಒಬ್ಬ ಲ್ಯಾಂಡ್ಸ್ಕೇಪ್ ವಾಸ್ತುಶಿಲ್ಪಿಯಾಗಿದ್ದು, ಹೊಸ ಸಿಟಿ ಪಾರ್ಕ್ ಅನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಲು ನೇಮಕಗೊಂಡಿದ್ದರು. ಸಿಟಿ ಕೌನ್ಸಿಲ್ ಉದ್ಯಾನವನವು ಹೊರಾಂಗಣ ಸಂಗೀತ ಕಚೇರಿಗಳಿಗೆ ಸ್ಥಳವನ್ನು ಹೊಂದಿರಬೇಕು ಮತ್ತು ಉದ್ಯಾನವನದ ಕನಿಷ್ಠ 20% ರಷ್ಟು ಮರಗಳಿಂದ ಮಬ್ಬಾಗಿರಬೇಕು ಎಂದು ಬಯಸಿದ್ದರು. ಸಂಗೀತ ಕಚೇರಿಯ ಪ್ರದೇಶವು ರಸ್ತೆಯಿಂದ ಕನಿಷ್ಠ 150ಮೀಟರ್ಗಳಷ್ಟು ದೂರವಿರಬೇಕು ಎಂದು ಕೂಪರ್ ಭಾವಿಸಿದರು, ಆದ್ದರಿಂದ ಸಂಚಾರದ ಶಬ್ದವು ಸಂಗೀತಕ್ಕೆ ಅಡ್ಡಿಯನ್ನುಂಟು ಮಾಡಲಿಲ್ಲ. ಅವರು ಉದ್ಯಾನವನಕ್ಕಾಗಿ ಮೂರು ಸಂಭಾವ್ಯ ವಿನ್ಯಾಸಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದರು, ಪ್ರತಿಯೊಂದು ಸ್ಥಳದಲ್ಲೂ ವಿಭಿನ್ನ ವಿನ್ಯಾಸದಲ್ಲಿ ಸಂಗೀತ ಕಚೇರಿಯ ಪ್ರದೇಶವನ್ನು ಹೊಂದಿದ್ದರು. ನಂತರ ಅವರು ಪ್ರತಿ ವಿನ್ಯಾಸವನ್ನು ಅಳೆಯುವ ಮೂಲಕ ವಿನ್ಯಾಸವನ್ನು ಮಾಡಿದರು.",
+    "secondary": "ಕೂಪರ್‌ನ ಪರೀಕ್ಷೆ ಯಾವದನ್ನು ತೋರಿಸಬಹುದು?",
+    "agreement": 0.3125
+  },
+  {
+    "id": "mmmu_mechanical_engineering_0001",
+    "english": "In the following figure, select the correct view ().<image 1>",
+    "indictrans2": "ಈ ಕೆಳಗಿನ ಚಿತ್ರದಲ್ಲಿ, ಸರಿಯಾದ ನೋಟವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ().",
+    "secondary": "ಕೆಳಗಿನ ಚಿತ್ರದಲ್ಲಿ, ಸರಿಯಾದ ದೃಷ್ಟಿಕೋನವನ್ನು ಆಯ್ಕೆಮಾಡಿ ().",
+    "agreement": 0.9
+  },
+  {
+    "id": "mathvista_434",
+    "english": "In the figure above, side AC of triangle ABC is on line l. What is x in terms of k?",
+    "indictrans2": "ಮೇಲಿನ ಚಿತ್ರದಲ್ಲಿ, ತ್ರಿಕೋನ ABCಯ ಪಾರ್ಶ್ವ ACಯು ರೇಖೆ lನಲ್ಲಿದೆ.",
+    "secondary": "ಮೇಲಿನ ಚಿತ್ರದಲ್ಲಿ, ತ್ರಿಭುಜ ABC ಯ AC ಬದಿಯು ರೇಖೆ l ಮೇಲೆ ಇದೆ. k ನ ದೃಷ್ಟಿಯಿಂದ x ಏನು?",
+    "agreement": 0.5385
+  },
+  {
+    "id": "mmmu_math_0009",
+    "english": "<image 1> is not a regular graph because",
+    "indictrans2": "<ಚಿತ್ರ 1> ಸಾಮಾನ್ಯ ಗ್ರಾಫ್ ಅಲ್ಲ ಏಕೆಂದರೆ",
+    "secondary": "ಚಿತ್ರ 1 ನಿಯಮಿತ ಗ್ರಾಫ್ ಅಲ್ಲ ಏಕೆಂದರೆ",
+    "agreement": 0.8696
+  },
+  {
+    "id": "mmmu_computer_science_0021",
+    "english": "<image 1> What does the above NFA recognize. Write your answer in regular expression.",
+    "indictrans2": "ಮೇಲಿನ ಎನ್. ಎಫ್. ಎ ಏನು ಗುರುತಿಸುತ್ತದೆ. ನಿಮ್ಮ ಉತ್ತರವನ್ನು ನಿಯಮಿತ ಅಭಿವ್ಯಕ್ತಿಯಲ್ಲಿ ಬರೆಯಿರಿ.",
+    "secondary": "ಮೇಲಿನ NFA ಯಾವನ್ನು ಗುರುತಿಸುತ್ತದೆ. ನಿಮ್ಮ ಉತ್ತರವನ್ನು ನಿಯಮಿತ ಅಭಿವ್ಯಕ್ತಿಯಲ್ಲಿ ಬರೆಯಿರಿ.",
+    "agreement": 0.7586
+  },
+  {
+    "id": "mmmu_chemistry_0026",
+    "english": "<image 1> Based on Coulomb's law and the information in the table above, which of the following anions is most likely to have the strongest interactions with nearby water molecules in an aqueous solution?",
+    "indictrans2": "ಕೂಲಂಬ್'sನಿಯಮ ಮತ್ತು ಮೇಲಿನ ಕೋಷ್ಟಕದಲ್ಲಿರುವ ಮಾಹಿತಿಯ ಆಧಾರದ ಮೇಲೆ, ಈ ಕೆಳಗಿನ ಯಾವ ಅಯಾನುಗಳು ಜಲೀಯ ದ್ರಾವಣದಲ್ಲಿ ಹತ್ತಿರದ ನೀರಿನ ಅಣುಗಳೊಂದಿಗೆ ಪ್ರಬಲವಾದ ಪರಸ್ಪರ ಕ್ರಿಯೆಗಳನ್ನು ಹೊಂದಿರಬಹುದು?",
+    "secondary": "ಕೂಲಾಂಬ್‌ನ ಕಾನೂನಿನ ಆಧಾರದ ಮೇಲೆ ಮತ್ತು ಮೇಲಿನ ಪಟ್ಟಿಯ ಮಾಹಿತಿಯ ಆಧಾರದ ಮೇಲೆ, ಕೆಳಗಿನ ಯಾವ ಅನಿಯನ್‌ಗಳು ಜಲದ ದ್ರಾವಣದಲ್ಲಿ ಹತ್ತಿರದ ನೀರಿನ ಅಣುಗಳೊಂದಿಗೆ ಅತ್ಯಂತ ಬಲವಾದ ಪರಸ್ಪರ ಕ್ರಿಯೆಯನ್ನು ಹೊಂದಿರುವ ಸಾಧ್ಯತೆ ಇದೆ?",
+    "agreement": 0.8293
+  },
+  {
+    "id": "mathvista_367",
+    "english": "What is the age gap between these two people in image?",
+    "indictrans2": "ಚಿತ್ರದಲ್ಲಿ ಈ ಇಬ್ಬರು ವ್ಯಕ್ತಿಗಳ ನಡುವಿನ ವಯಸ್ಸಿನ ಅಂತರ ಎಷ್ಟು?",
+    "secondary": "ಚಿತ್ರದಲ್ಲಿರುವ ಈ ಇಬ್ಬರ ವಯಸ್ಸಿನ ಅಂತರ ಎಷ್ಟು?",
+    "agreement": 0.8462
+  },
+  {
+    "id": "mathvista_291",
+    "english": "In which period the number of full time employees is the maximum?",
+    "indictrans2": "ಯಾವ ಅವಧಿಯಲ್ಲಿ ಪೂರ್ಣಾವಧಿಯ ಉದ್ಯೋಗಿಗಳ ಸಂಖ್ಯೆ ಗರಿಷ್ಠವಾಗಿರುತ್ತದೆ?",
+    "secondary": "ಯಾವ ಅವಧಿಯಲ್ಲಿ ಪೂರ್ಣಕಾಲಿಕ ಉದ್ಯೋಗಿಗಳ ಸಂಖ್ಯೆ ಗರಿಷ್ಠವಾಗಿದೆ?",
+    "agreement": 0.8929
+  },
+  {
+    "id": "mathvista_75",
+    "english": "Is Sky Blue less than Web Maroon?",
+    "indictrans2": "ಸ್ಕೈ ಬ್ಲೂ ವೆಬ್ ಮರೂನ್ ಗಿಂತ ಕಡಿಮೆಯೇ?",
+    "secondary": "ಆಕಾಶ ನೀಲಿ ವೆಬ್ ಮರೂನ್‌ಗಿಂತ ಕಡಿಮೆದೆಯೇ?",
+    "agreement": 0.7037
+  },
+  {
+    "id": "mathvista_292",
+    "english": "Is Rebecca Purple greater than Olive Drab?",
+    "indictrans2": "ರೆಬೆಕ್ಕಾ ಪರ್ಪಲ್ ಆಲಿವ್ ಡ್ರ್ಯಾಬ್ಗಿಂತ ದೊಡ್ಡದಾಗಿದೆ?",
+    "secondary": "ರೆಬೆಕ್ಕಾ ಪರ್ಪಲ್ ಒಲಿವ್ ಡ್ರಾಬ್ ಗಿಂತ ದೊಡ್ಡದೆಯೇ?",
+    "agreement": 0.8636
+  },
+  {
+    "id": "scienceqa_00288",
+    "english": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?",
+    "indictrans2": "ಪ್ರತಿ ಮಾದರಿಯಲ್ಲಿನ ಕಣಗಳ ಸರಾಸರಿ ಚಲನ ಶಕ್ತಿಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ. ಯಾವ ಮಾದರಿಯು ಹೆಚ್ಚಿನ ತಾಪಮಾನವನ್ನು ಹೊಂದಿದೆ?",
+    "secondary": "ಪ್ರತಿ ಮಾದರಿಯಲ್ಲಿನ ಕಣಗಳ ಸರಾಸರಿ ಚಲನಾ ಶಕ್ತಿಯನ್ನು ಹೋಲಿಸಿ. ಯಾವ ಮಾದರಿಯು ಹೆಚ್ಚಿನ ತಾಪಮಾನವನ್ನು ಹೊಂದಿದೆ?",
+    "agreement": 0.9655
+  },
+  {
+    "id": "mmmu_mechanical_engineering_0019",
+    "english": "A machine frame is made of steel having Sy = 400 MPa and Ssy = 250 MPa. When loaded in a test fixture, the stresses were found to vary linearly with load. Two points on the surface were found to be most critical. With a 4-kN test load, stresses at these points were: point a, $\\sigma $1 = 200 MPa,$\\sigma $2 = 100 MPa; point b, $\\sigma $1 = 150 MPa, $\\sigma $2 = -100 MPa. Compute the test load at which the frame will experience initial yielding according to the maximum-normal-stress theory.<image 1>",
+    "indictrans2": "Aಯಂತ್ರದ ಚೌಕಟ್ಟನ್ನು ಉಕ್ಕಿನಿಂದ ತಯಾರಿಸಲಾಗಿದ್ದು, ಇದರಲ್ಲಿ ಸೈ =400MPa ಮತ್ತು ಸೈ =250MPa. ಪರೀಕ್ಷಾ ಘಟಕದಲ್ಲಿ ಲೋಡ್ ಮಾಡಿದಾಗ, ಒತ್ತಡಗಳು ಲೋಡ್ಗೆ ಅನುಗುಣವಾಗಿ ರೇಖೀಯವಾಗಿ ಬದಲಾಗುತ್ತವೆ ಎಂದು ಕಂಡುಬಂದಿದೆ. ಮೇಲ್ಮೈಯಲ್ಲಿ ಎರಡು ಬಿಂದುಗಳು ಅತ್ಯಂತ ನಿರ್ಣಾಯಕವೆಂದು ಕಂಡುಬಂದಿದೆ. 4-kN ಪರೀಕ್ಷಾ ಲೋಡ್ನಲ್ಲಿ, ಒತ್ತಡಗಳು ಈ ಹಂತಗಳಲ್ಲಿವೆಃ ಪಾಯಿಂಟ್ ಎ, $\\sigma $1=200MPa, $\\sigma $=ID4, $\\sigma",
+    "secondary": "ಯಂತ್ರದ ಫ್ರೇಮ್ 400 MPa Sy = ಮತ್ತು 250 MPa Ssy = ಹೊಂದಿರುವ ಉಕ್ಕಿನಿಂದ ತಯಾರಿಸಲಾಗಿದೆ. ಪರೀಕ್ಷಾ ಫಿಕ್ಸ್ಚರ್‌ನಲ್ಲಿ ಲೋಡ್ ಮಾಡಿದಾಗ, ಒತ್ತಡಗಳು ಲೋಡ್‌ನೊಂದಿಗೆ ರೇಖೀಯವಾಗಿ ಬದಲಾಗುತ್ತವೆ ಎಂದು ಕಂಡುಬಂದಿತು. ಮೇಲ್ಮೈಯ上的 ಎರಡು ಬಿಂದುಗಳು ಅತ್ಯಂತ ಗಂಭೀರವಾಗಿವೆ ಎಂದು ಕಂಡುಬಂದಿತು. 4-kN ಪರೀಕ್ಷಾ ಲೋಡ್‌ನೊಂದಿಗೆ, ಈ ಬಿಂದುಗಳಲ್ಲಿ ಒತ್ತಡಗಳು ಇವು: ಬಿಂದು a, $\\sigma $1 = 200 MPa, $\\sigma $2 = 100 MPa; ಬಿಂದು b, $\\sigma $1 = 150 MPa, $\\sigma $2 = -100 MPa. ಗರಿಷ್ಠ-ಸಾಮಾನ್ಯ-ಒತ್ತಡ ಸಿದ್ಧಾಂತದ ಪ್ರಕಾರ ಫ್ರೇಮ್ ಪ್ರಾಥಮಿಕ yielding ಅನುಭವಿಸುವ ಪರೀಕ್ಷಾ ಲೋಡ್ ಅನ್ನು ಲೆಕ್ಕಹಾಕಿ.",
+    "agreement": 0.6829
+  },
+  {
+    "id": "mathvista_98",
+    "english": "Find the value of the square in the figure.",
+    "indictrans2": "ಚಿತ್ರದಲ್ಲಿ ಚೌಕದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಕೊಳ್ಳಿ.",
+    "secondary": "ಚಿತ್ರದಲ್ಲಿನ ಚದರದ ಮೌಲ್ಯವನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ.",
+    "agreement": 0.8571
+  },
+  {
+    "id": "mathvista_106",
+    "english": "How many bars have values smaller than 1?",
+    "indictrans2": "ಎಷ್ಟು ಬಾರ್ಗಳು 1ಗಿಂತ ಚಿಕ್ಕದಾದ ಮೌಲ್ಯಗಳನ್ನು ಹೊಂದಿವೆ?",
+    "secondary": "1 ಕ್ಕಿಂತ ಕಡಿಮೆ ಮೌಲ್ಯಗಳನ್ನು ಹೊಂದಿರುವ ಎಷ್ಟು ಬಾರ್‌ಗಳು ಇವೆ?",
+    "agreement": 0.871
+  },
+  {
+    "id": "scienceqa_00572",
+    "english": "Select the mammal below.",
+    "indictrans2": "ಕೆಳಗಿನ ಸಸ್ತನಿಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.",
+    "secondary": "ಕೆಳಗಿನ ಸಸ್ತನಿಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.",
+    "agreement": 1.0
+  },
+  {
+    "id": "scienceqa_00160",
+    "english": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?",
+    "indictrans2": "ಪ್ರತಿ ಜೋಡಿಯಲ್ಲಿನ ಆಯಸ್ಕಾಂತಗಳ ನಡುವಿನ ಆಯಸ್ಕಾಂತೀಯ ಬಲದ ಬಗ್ಗೆ ಯೋಚಿಸಿ. ಈ ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುದು ನಿಜ?",
+    "secondary": "ಪ್ರತಿ ಜೋಡಿಯಲ್ಲಿರುವ ಚುಂಬಕಗಳ ನಡುವೆ ಚುಂಬಕ ಶಕ್ತಿಯನ್ನು ಯೋಚಿಸಿ. ಕೆಳಗಿನ ಹೇಳಿಕೆಗಳಲ್ಲಿ ಯಾವುದು ಸತ್ಯ?",
+    "agreement": 0.875
+  }
+]
