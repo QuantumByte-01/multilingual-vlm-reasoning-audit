@@ -1,0 +1,67 @@
+[
+  {
+    "model": "aya-vision-8b",
+    "id": "mathvista_1",
+    "source": "mathvista",
+    "category": "math",
+    "english_question": "",
+    "target_lang": "hi",
+    "target_question": "",
+    "ground_truth": "1.2",
+    "english_response": "To solve this problem, we need to use the principle of conservation of energy. The initial kinetic energy of the canister is converted into the potential energy stored in the spring.\n\nThe initial kinetic energy of the canister is given by:\n\\[ KE = \\frac{1}{2}mv^2 \\]\nwhere \\( m \\) is the mass of the canister and \\( v \\) is its initial speed.\n\nSubstituting the given values:\n\\[ KE = \\frac{1}{2} \\times 0.40 \\, \\text{kg} \\times (0.50 \\, \\text{m/s})^2 = \\frac{1}{2} \\times 0.40 \\times 0.25 = 0.05 \\, \\text{J} \\]\n\nWhen the canister compresses the spring, this kinetic energy is converted into potential energy stored in the spring. The potential energy of a spring is given by:\n\\[ PE = \\frac{1}{2}kx^2 \\]\nwhere \\( k \\) is the spring constant and \\( x \\) is the compression distance.\n\nSetting the initial kinetic energy equal to the potential energy:\n\\[ 0.05 \\, \\text{J} = \\frac{1}{2} \\times 750 \\, \\text{N/m} \\times x^2 \\]\n\nSolving for \\( x \\):\n\\[ 0.05 = \\frac{750}{2}x^2 \\]\n\\[ 0.05 = 375x^2 \\]\n\\[ x^2 = \\frac{0.05}{375} \\]\n\\[ x^2 = \\frac{1}{7500} \\]\n\\[ x = \\sqrt{\\frac{1}{7500}} \\]\n\\[ x = \\frac{1}{\\sqrt{7500}} \\]\n\\[ x = \\frac{1}{86.60} \\]\n\\[ x \\approx 0.0115 \\, \\text{m} \\]\n\nTherefore, the spring is compressed by approximately \\( 0.0115 \\, \\text{m} \\) or \\( 1.15 \\, \\text{cm} \\).\n\nThe correct answer is:",
+    "target_response": "चित्र में दिए गए परिदृश्य में, वस्तु के स्प्रिंग द्वारा किए गए काम की गणना करने के लिए, हमें स्प्रिंग के विस्थापन को छोटे अंतरालों में विभाजित करना होगा और प्रत्येक अंतराल पर स्थिर बल के रूप में मान लेना होगा। फिर, हम इन बलों के योग का एकीकरण करेंगे ताकि कुल काम निर्धारित किया जा सके।\n\nस्प्रिंग का बल वस्तु के विस्थापन के साथ बदलता रहता है, इसलिए हम इसे एक कार्यात्मक संबंध के रूप में लिख सकते हैं:\n\n\\[ F = -kx \\]\n\nजहां \\( k \\) स्प्रिंग का स्प्रिंग स्थिरांक है और \\( x \\) वस्तु का विस्थापन है।\n\nवस्तु के विस्थापन को छोटे अंतराल \\( dx \\) में विभाजित करने पर, हम प्रत्येक अंतराल पर किए गए काम की गणना कर सकते हैं:\n\n\\[ dW = F \\cdot dx = -kx \\cdot dx \\]\n\nअब, हम इन अंतरालों के योग का एकीकरण करेंगे:\n\n\\[ W = \\int_{0}^{x} -kx \\, dx \\]\n\nइस एकीकरण को हल करने पर:\n\n\\[ W = -\\frac{1}{2}kx^2 \\]\n\nचित्र में, वस्तु",
+    "image_path": ""
+  },
+  {
+    "model": "aya-vision-8b",
+    "id": "mathvista_2",
+    "source": "mathvista",
+    "category": "math",
+    "english_question": "",
+    "target_lang": "hi",
+    "target_question": "",
+    "ground_truth": "1000",
+    "english_response": "1000",
+    "target_response": "सही उत्तर है **D**.\n\nचित्र में दिखाए गए मापने वाले कप में 1000 मिलीलीटर (या 1 लीटर) की मात्रा है। यह मापने वाला कप मात्रा को मापने के लिए डिज़ाइन किया गया है और इसके अंदर मापने के लिए स्पष्ट मापने के चिह्न हैं।",
+    "image_path": ""
+  },
+  {
+    "model": "aya-vision-8b",
+    "id": "mathvista_11",
+    "source": "mathvista",
+    "category": "math",
+    "english_question": "",
+    "target_lang": "hi",
+    "target_question": "",
+    "ground_truth": "5",
+    "english_response": "5",
+    "target_response": "इस समस्या को हल करने के लिए, हमें दिए गए चरणों का पालन करना होगा:\n\n1. **सभी लाल चीजों को घटाएँ:**\n   - चित्र में एक लाल गेंद है। इसे हटा दें।\n\n2. **सभी छोटी मैट गेंदों को घटाएँ:**\n   - चित्र में एक छोटी मैट गेंद (लाल गेंद) है, जिसे हमने पहले ही हटा दिया है। अब, हमें एक और छोटी मैट गेंद (नीली गेंद) मिलती है। इसे भी हटा दें।\n\nअब, हम शेष वस्तुओं की गिनती करेंगे:\n\n- पीला घन\n- हरा सिलेंडर\n- नीला सिलेंडर\n- हरा सिलेंडर\n- बैंगनी सिलेंडर\n- नीली गेंद\n\nकुल 6 वस्तुएँ बची हैं।\n\n**उत्तर: C**",
+    "image_path": ""
+  },
+  {
+    "model": "aya-vision-8b",
+    "id": "mathvista_69",
+    "source": "mathvista",
+    "category": "math",
+    "english_question": "",
+    "target_lang": "hi",
+    "target_question": "",
+    "ground_truth": "7",
+    "english_response": "To solve this problem, we need to follow the instructions step by step:\n\n1. **Identify and Subtract Big Matte Balls:**\n   - In the image, there is one big matte ball, which is the purple cube. However, cubes are not balls, so there are no big matte balls to subtract.\n\n2. **Identify and Subtract Green Rubber Objects:**\n   - The green rubber objects in the image are the green cube and the green cylinder.\n\n3. **Count the Remaining Objects:**\n   - After subtracting the green rubber objects, we need to count the remaining objects in the image.\n\nLet's list the objects in the image:\n- Purple cube (matte)\n- Red cylinder (rubber)\n- Green cube (rubber)\n- Green cylinder (rubber)\n- Red sphere (metallic)\n- Blue cube (metallic)\n- Green sphere (metallic)\n- Blue sphere (metallic)\n- Green cylinder (metallic)\n\nSubtracting the green cube and the green cylinder, we are left with:\n- Purple cube\n- Red cylinder\n- Red sphere\n- Blue cube\n- Green sphere\n- Blue sphere\n- Green cylinder\n\nThere are 7 objects remaining.\n\nTherefore, the answer is:\n7",
+    "target_response": "इस समस्या को हल करने के लिए, हमें दिए गए चरणों का पालन करना होगा:\n\n1. **बड़ी मैट गेंदों की पहचान और उन्हें घटाएँ:**\n   - छवि में दो बड़ी मैट गेंदें हैं: एक लाल और एक नीली। इन्हें हटा दें।\n\n2. **हरी रबड़ की वस्तुओं की पहचान और उन्हें घटाएँ:**\n   - छवि में दो हरी रबड़ की वस्तुएँ हैं: एक सिलेंडर और एक छोटा घन। इन्हें भी हटा दें।\n\nअब, हमें शेष वस्तुओं की संख्या गिननी है:\n\n- शुरू में कुल वस्तुएँ: 10\n- बड़ी मैट गेंदें हटाने के बाद: 10 - 2 = 8\n- हरी रबड़ की वस्तुएँ हटाने के बाद: 8 - 2 = 6\n\nइस प्रकार, शेष वस्तुओं की संख्या **6** है।\n\n**उत्तर: C**",
+    "image_path": ""
+  },
+  {
+    "model": "aya-vision-8b",
+    "id": "mathvista_72",
+    "source": "mathvista",
+    "category": "math",
+    "english_question": "",
+    "target_lang": "hi",
+    "target_question": "",
+    "ground_truth": "1",
+    "english_response": "To determine how many blocks have exactly 36 houses, we need to analyze the given stem-and-leaf plot. The plot shows the distribution of houses per block, with stems representing the tens digit and leaves representing the units digit.\n\nFor a block to have exactly 36 houses, the number must be 36. Looking at the stem-and-leaf plot, we find that the number 36 corresponds to the stem 3 and the leaf 6.\n\nIn the stem-and-leaf plot:\n- The stem 3 has the following leaves: 0, 1, 2, 4, 6, 8.\n- Only the leaf 6 corresponds to the number 36.\n\nTherefore, there is only one block with exactly 36 houses.\n\nThe correct answer is:\n\\[ \\boxed{1} \\]",
+    "target_response": "इस समस्या को हल करने के लिए, हमें दिए गए डेटा से 36 घरों वाले ब्लॉकों की संख्या का पता लगाना है। हमें एक स्टेम-लीफ़ प्रतिनिधित्व का उपयोग करने के लिए कहा गया है, जो हमें ब्लॉकों की संख्या को तेज़ी से गिनने में मदद करता है।\n\nस्टेम-लीफ़ टेबल को देखें:\n\n- **स्टेम 0** के लिए, हमारे पास 57 घर हैं।\n- **स्टेम 1** के लिए, हमारे पास 45 घर हैं।\n- **स्टेम 2** के लिए, हमारे पास 30 घर हैं।\n- **स्टेम 3** के लिए, हमारे पास 18 घर हैं।\n\nहमें 36 घरों वाले ब्लॉकों की संख्या की तलाश है। स्टेम-लीफ़ टेबल के अनुसार, 36 घरों के लिए स्टेम 3 होगा। स्टेम 3 के लिए लीफ़ में 0, 1, 2, 4, 6, 8 हैं। इनमें से कोई भी लीफ़ 36 का प्रतिनिधित्व नहीं करता है।\n\nइसलिए, **कोई ब्लॉक नहीं है जिसमें 36 घर हों**।\n\nउत्तर: **C**",
+    "image_path": ""
+  }
+]
