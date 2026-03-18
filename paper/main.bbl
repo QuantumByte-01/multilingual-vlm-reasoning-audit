@@ -1,0 +1,186 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ahuja et~al.(2023)Ahuja, Diddee, Hada, Ochieng, Ramesh, Jain, Nambi,
+  Ganu, Segal, Axmed, Bali, and Sitaram]{ahuja2023mega}
+Kabir Ahuja, Harshita Diddee, Rishav Hada, Millicent Ochieng, Krithika Ramesh,
+  Prachi Jain, Akshay Nambi, Tanuja Ganu, Sameer Segal, Maxamed Axmed, Kalika
+  Bali, and Sunayana Sitaram.
+\newblock {MEGA}: Multilingual evaluation of generative {AI}.
+\newblock In \emph{Proceedings of EMNLP}, 2023.
+
+\bibitem[Atuhurra et~al.(2025)]{atuhurra2025vlures}
+Jesse Atuhurra et~al.
+\newblock {VLURes}: Benchmarking {VLM} visual and linguistic understanding in
+  low-resource languages.
+\newblock \emph{arXiv preprint arXiv:2510.12845}, 2025.
+
+\bibitem[Bai et~al.(2025{\natexlab{a}})Bai, Cai, Chen, et~al.]{bai2025qwen3vl}
+Shuai Bai, Yuxuan Cai, Ruizhe Chen, et~al.
+\newblock {Qwen3-VL} technical report.
+\newblock \emph{arXiv preprint arXiv:2511.21631}, 2025{\natexlab{a}}.
+
+\bibitem[Bai et~al.(2025{\natexlab{b}})]{bai2025qwen25vl}
+Shuai Bai et~al.
+\newblock {Qwen2.5-VL} technical report.
+\newblock \emph{arXiv preprint arXiv:2502.13923}, 2025{\natexlab{b}}.
+
+\bibitem[Chen et~al.(2024)Chen, Wu, Wang, Su, Chen, Xing, Zhong, Zhang, Zhu,
+  Lu, Li, Luo, Lu, Qiao, and Dai]{chen2024internvl}
+Zhe Chen, Jiannan Wu, Wenhai Wang, Weijie Su, Guo Chen, Sen Xing, Muyan Zhong,
+  Qinglong Zhang, Xizhou Zhu, Lewei Lu, Bin Li, Ping Luo, Tong Lu, Yu~Qiao, and
+  Jifeng Dai.
+\newblock {InternVL}: Scaling up vision foundation models and aligning for
+  generic visual-linguistic tasks.
+\newblock In \emph{Proceedings of CVPR}, 2024.
+
+\bibitem[Dash et~al.(2025)Dash, Nan, Dang, Ahmadian, et~al.]{dash2025ayavision}
+Saurabh Dash, Yiyang Nan, John Dang, Arash Ahmadian, et~al.
+\newblock Aya vision: Advancing the frontier of multilingual multimodality.
+\newblock \emph{arXiv preprint arXiv:2505.08751}, 2025.
+
+\bibitem[Doddapaneni et~al.(2023)]{doddapaneni2023towards}
+Sumanth Doddapaneni et~al.
+\newblock Towards leaving no {Indic} language behind: Building monolingual
+  corpora, benchmark and models for {Indic} languages.
+\newblock In \emph{Proceedings of ACL}, 2023.
+
+\bibitem[Faraz et~al.(2025)]{faraz2025indicvisionbench}
+Ali Faraz et~al.
+\newblock {IndicVisionBench}: Benchmarking cultural and multilingual
+  understanding in {VLMs}.
+\newblock \emph{arXiv preprint arXiv:2511.04727}, 2025.
+
+\bibitem[Gala et~al.(2023)Gala, Chitale, {Raghavan, A K}, Gumma, Doddapaneni,
+  Kumar, Nawale, Sujatha, Puduppully, Raghavan, Kumar, Khapra, Dabre, and
+  Kunchukuttan]{gala2023indictrans2}
+Jay Gala, Pranjal~A. Chitale, {Raghavan, A K}, Varun Gumma, Sumanth
+  Doddapaneni, Aswanth Kumar, Janki Nawale, Anupama Sujatha, Ratish Puduppully,
+  Vivek Raghavan, Pratyush Kumar, Mitesh~M. Khapra, Raj Dabre, and Anoop
+  Kunchukuttan.
+\newblock {IndicTrans2}: Towards high-quality and accessible machine
+  translation models for all 22 scheduled {Indian} languages.
+\newblock \emph{Transactions on Machine Learning Research}, 2023.
+
+\bibitem[{Gemma Team, Google DeepMind}(2025)]{google2025gemma3}
+{Gemma Team, Google DeepMind}.
+\newblock Gemma 3 technical report.
+\newblock \emph{arXiv preprint arXiv:2503.19786}, 2025.
+
+\bibitem[Khan et~al.(2025)]{khan2025chitrarth}
+Shaharukh Khan et~al.
+\newblock Chitrarth: Bridging vision and language for a billion people.
+\newblock \emph{arXiv preprint arXiv:2502.15392}, 2025.
+
+\bibitem[Liu et~al.(2021)Liu, Bugliarello, Ponti, Reddy, Collier, and
+  Elliott]{liu2021marvl}
+Fangyu Liu, Emanuele Bugliarello, Edoardo~Maria Ponti, Siva Reddy, Nigel
+  Collier, and Desmond Elliott.
+\newblock Visually grounded reasoning across languages and cultures.
+\newblock In \emph{Proceedings of EMNLP}, 2021.
+
+\bibitem[Lu et~al.(2022)Lu, Mishra, Xia, Qiu, Chang, Zhu, Tafjord, Clark, and
+  Kalyan]{lu2022scienceqa}
+Pan Lu, Swaroop Mishra, Tony Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu,
+  Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.
+\newblock Learn to explain: Multimodal reasoning via thought chains for science
+  question answering.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2022.
+
+\bibitem[Lu et~al.(2024)Lu, Bansal, Xia, Liu, Li, Hajishirzi, Cheng, Chang,
+  Galley, and Gao]{lu2024mathvista}
+Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh
+  Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, and Jianfeng Gao.
+\newblock {MathVista}: Evaluating mathematical reasoning of foundation models
+  in visual contexts.
+\newblock In \emph{Proceedings of ICLR}, 2024.
+
+\bibitem[Maji et~al.(2025)]{maji2025drishtikon}
+Arijit Maji et~al.
+\newblock {DRISHTIKON}: A multimodal multilingual benchmark for testing
+  language models' understanding on {Indian} culture.
+\newblock In \emph{Proceedings of the MAINS Workshop at EMNLP}, 2025.
+
+\bibitem[{Meta AI}(2025)]{meta2025llama4}
+{Meta AI}.
+\newblock The {Llama} 4 herd: The beginning of a new era of natively multimodal
+  {AI} innovation.
+\newblock \url{https://ai.meta.com/blog/llama-4-multimodal-intelligence/},
+  2025.
+
+\bibitem[{Ministry of Human Resource Development, Government of
+  India}(2020)]{nep2020}
+{Ministry of Human Resource Development, Government of India}.
+\newblock National education policy 2020.
+\newblock
+  \url{https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf},
+  2020.
+
+\bibitem[{OpenAI}(2024)]{openai2024gpt4o}
+{OpenAI}.
+\newblock {GPT-4o} system card.
+\newblock Technical report, 2024.
+
+\bibitem[Pfeiffer et~al.(2022)Pfeiffer, Geigle, Kamath, Steitz, Roth,
+  Vuli{\'c}, and Gurevych]{pfeiffer2022xgqa}
+Jonas Pfeiffer, Gregor Geigle, Aishwarya Kamath, Jan-Martin Steitz, Stefan
+  Roth, Ivan Vuli{\'c}, and Iryna Gurevych.
+\newblock {xGQA}: Cross-lingual visual question answering.
+\newblock In \emph{Findings of ACL}, 2022.
+
+\bibitem[Romero et~al.(2024)]{romero2024cvqa}
+David Romero et~al.
+\newblock {CVQA}: Culturally-diverse multilingual visual question answering
+  benchmark.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2024.
+
+\bibitem[Saji et~al.(2025)Saji, Dabre, Kunchukuttan, and
+  Puduppully]{saji2025reasoning}
+Alan Saji, Raj Dabre, Anoop Kunchukuttan, and Ratish Puduppully.
+\newblock The reasoning lingua franca: A double-edged sword for multilingual
+  {AI}.
+\newblock \emph{arXiv preprint arXiv:2510.20647}, 2025.
+
+\bibitem[Shi et~al.(2023)Shi, Suzgun, Freitag, Wang, Srivats, Vosoughi, Chung,
+  Tay, Ruder, Zhou, Das, and Wei]{shi2023mgsm}
+Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush
+  Vosoughi, Hyung~Won Chung, Yi~Tay, Sebastian Ruder, Denny Zhou, Dipanjan Das,
+  and Jason Wei.
+\newblock Language models are multilingual chain-of-thought reasoners.
+\newblock In \emph{Proceedings of ICLR}, 2023.
+
+\bibitem[Surana et~al.(2026)]{surana2026viraasat}
+Harshul~Raj Surana et~al.
+\newblock {VIRAASAT}: Traversing novel paths for {Indian} cultural reasoning.
+\newblock \emph{arXiv preprint arXiv:2602.18429}, 2026.
+
+\bibitem[Vayani et~al.(2024)]{vayani2024alm}
+Ashmal Vayani et~al.
+\newblock All languages matter: Evaluating {LMMs} on culturally diverse 100
+  languages.
+\newblock \emph{arXiv preprint arXiv:2411.16508}, 2024.
+
+\bibitem[Wang et~al.(2024)]{wang2024mathvision}
+Ke~Wang et~al.
+\newblock Measuring multimodal mathematical reasoning with {MATH-Vision}
+  dataset.
+\newblock \emph{arXiv preprint arXiv:2402.14804}, 2024.
+
+\bibitem[Yue et~al.(2024{\natexlab{a}})Yue, Ni, Zhang, Zheng, Liu, Zhang,
+  Stevens, Jiang, Ren, Sun, et~al.]{yue2024mmmu}
+Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge~Zhang, Samuel
+  Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, et~al.
+\newblock {MMMU}: A massive multi-discipline multimodal understanding and
+  reasoning benchmark for expert {AGI}.
+\newblock In \emph{Proceedings of CVPR}, 2024{\natexlab{a}}.
+
+\bibitem[Yue et~al.(2024{\natexlab{b}})]{yue2024pangea}
+Xiang Yue et~al.
+\newblock Pangea: A fully open multilingual multimodal {LLM} for 39 languages.
+\newblock \emph{arXiv preprint arXiv:2410.16153}, 2024{\natexlab{b}}.
+
+\end{thebibliography}
