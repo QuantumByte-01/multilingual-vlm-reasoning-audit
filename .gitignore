@@ -1,0 +1,58 @@
+# Environment — never commit secrets
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data — images are large, download via script 01; JSONs tracked
+data/original/images/
+data/HF_DATASET_CARD.md
+
+# Raw model outputs — large
+results/raw/
+
+# HuggingFace cache
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# uv
+.python-version
+uv.lock
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.blg
+*.toc
+*.lof
+*.lot
+
+# Old paper draft versions
+paper/main_v*.pdf
+paper/main_v*.bbl
+paper/main_final.*
+paper/main.pdf
+
+# Internal / submission folder
+submission/
+.claude/
+logs/
+standard/
+*.md
+!README.md
+
+# Figures PNGs (keep only PDFs)
+figures/*.png

@@ -1,0 +1,25 @@
+[project]
+name = "reasoning-evaluation"
+version = "0.1.0"
+description = "Cross-lingual visual reasoning audit for Indian languages"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.5.0",
+    "pillow>=11.0.0",
+    "pandas>=2.2.0",
+    "numpy>=2.1.0",
+    "tqdm>=4.67.0",
+    "python-dotenv>=1.0.0",
+    "google-generativeai>=0.8.0",
+    "openai>=1.0.0",
+    "transformers>=4.47.0",
+    "torch>=2.5.0",
+    "torchvision>=0.20.0",
+    "scipy>=1.14.0",
+    "matplotlib>=3.9.0",
+    "seaborn>=0.13.0",
+    "huggingface-hub>=0.27.0",
+    "pyyaml>=6.0.0",
+    "requests>=2.32.0",
+]
