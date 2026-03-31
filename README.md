@@ -1,7 +1,7 @@
 # Do Multilingual VLMs Reason Equally?
 ### A Cross-Lingual Visual Reasoning Audit for Indian Languages
 
-**Paper:** [arXiv link once available]  
+**Paper:** [arXiv:2603.26742](https://arxiv.org/abs/2603.26742)
 **Dataset:** [HuggingFace](https://huggingface.co/datasets/Swastikr/multilingual-vlm-reasoning)
 
 ## Key Findings
@@ -64,7 +64,7 @@ python scripts/07_visualize.py
 @article{swastik2026multilingual,
   title={Do Multilingual VLMs Reason Equally? A Cross-Lingual Visual Reasoning Audit for Indian Languages},
   author={Swastik R},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2603.26742},
   year={2026}
 }
 ```
